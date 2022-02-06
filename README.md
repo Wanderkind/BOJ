@@ -1,6 +1,11 @@
 # BOJ
 Curation of BOJ submissions
 
+## profiles
+
+[acmicpc.net](https://www.acmicpc.net/user/wanderkind)
+[solved.ac](https://solved.ac/profile/wanderkind)
+
 ## problem links
 
 [#1004 어린 왕자](https://www.acmicpc.net/problem/1004)<br>
