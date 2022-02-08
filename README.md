@@ -3,8 +3,8 @@ Curation of BOJ submissions
 
 ## profiles
 
-acmicpc.net/user/wanderkind <br>
-solved.ac/profile/wanderkind <br>
+[acmicpc.net](https://www.acmicpc.net/user/wanderkind)<br>
+[solved.ac](https://www.solved.ac/profile/wanderkind)<br>
 
 ## problem links
 
