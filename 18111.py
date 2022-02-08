@@ -1,5 +1,5 @@
 n,m,b=map(int,input().split());L=[];T=[]
-for _ in range(n):L+=list(map(int,input().split()))
+for _ in range(n):L+=[*map(int,input().split())]
 for i in range(max(L),min(L)-1,-1):
  c=b;t=0
  for j in range(m*n):
