@@ -20,6 +20,7 @@ Curation of BOJ submissions
 [#1419 등차수열의 합](https://www.acmicpc.net/problem/1419)<br>
 [#1718 암호](https://www.acmicpc.net/problem/1718)<br>
 [#1722 순열의 순서](https://www.acmicpc.net/problem/1722)<br>
+[#1917 정육면체 ](https://www.acmicpc.net/problem/1917)<br>
 [#1986 Queens, Knights and Pawns](https://www.acmicpc.net/problem/1986)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
