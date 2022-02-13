@@ -12,6 +12,7 @@ Curation of BOJ submissions
 [#1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)<br>
 [#1019 책 페이지](https://www.acmicpc.net/problem/1019)<br>
 [#1026 보물](https://www.acmicpc.net/problem/1026)<br>
+[#1041 주사위](https://www.acmicpc.net/problem/1041)<br>
 [#1063 킹](https://www.acmicpc.net/problem/1063)<br>
 [#1072 게임](https://www.acmicpc.net/problem/1072)<br>
 [#1081 합](https://www.acmicpc.net/problem/1081)<br>
