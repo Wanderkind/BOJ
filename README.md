@@ -23,7 +23,7 @@ Curation of BOJ submissions
 [#1722 순열의 순서](https://www.acmicpc.net/problem/1722)<br>
 [#1917 정육면체 전개도](https://www.acmicpc.net/problem/1917)<br>
 [#1986 Queens, Knights and Pawns](https://www.acmicpc.net/problem/1986)<br>
-[#2166 다각형의 ](https://www.acmicpc.net/problem/2166)<br>
+[#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
