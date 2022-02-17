@@ -15,6 +15,7 @@ Curation of BOJ submissions
 [#1041 주사위](https://www.acmicpc.net/problem/1041)<br>
 [#1063 킹](https://www.acmicpc.net/problem/1063)<br>
 [#1072 게임](https://www.acmicpc.net/problem/1072)<br>
+[#1074 Z](https://www.acmicpc.net/problem/1074)<br>
 [#1081 합](https://www.acmicpc.net/problem/1081)<br>
 [#1174 줄어드는 수](https://www.acmicpc.net/problem/1174)<br>
 [#1193 분수찾기](https://www.acmicpc.net/problem/1193)<br>
