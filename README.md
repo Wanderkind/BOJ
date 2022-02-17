@@ -27,6 +27,7 @@ Curation of BOJ submissions
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
+[#11687 팩토리얼 0의 ](https://www.acmicpc.net/problem/11687)<br>
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#17286 유미](https://www.acmicpc.net/problem/17286)<br>
