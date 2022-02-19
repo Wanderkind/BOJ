@@ -32,6 +32,7 @@ Curation of BOJ submissions
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
+[#17236 Heights](https://www.acmicpc.net/problem/17236)<br>
 [#17286 유미](https://www.acmicpc.net/problem/17286)<br>
 [#17386 선분 교차 1](https://www.acmicpc.net/problem/17386)<br>
 [#18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
