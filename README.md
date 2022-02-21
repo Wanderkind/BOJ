@@ -31,6 +31,7 @@ Curation of BOJ submissions
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
+[#11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br>
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#17236 Heights](https://www.acmicpc.net/problem/17236)<br>
