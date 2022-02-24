@@ -30,6 +30,7 @@ Curation of BOJ submissions
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
+[#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
