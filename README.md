@@ -26,6 +26,7 @@ Curation of BOJ submissions
 [#1986 Queens, Knights and Pawns](https://www.acmicpc.net/problem/1986)<br>
 [#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
 [#2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br>
+[#2559 ](https://www.acmicpc.net/problem/2559)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
