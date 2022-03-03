@@ -34,7 +34,7 @@ Curation of BOJ submissions
 [#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
-[#11162 민호와 강호](https://www.acmicpc.net/problem/11162)<br>
+[#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
 [#11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br>
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
