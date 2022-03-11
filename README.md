@@ -19,6 +19,7 @@ Curation of BOJ submissions
 [#1081 합](https://www.acmicpc.net/problem/1081)<br>
 [#1174 줄어드는 수](https://www.acmicpc.net/problem/1174)<br>
 [#1193 분수찾기](https://www.acmicpc.net/problem/1193)<br>
+[#1399 보물의 위치](https://www.acmicpc.net/problem/1399)<br>
 [#1419 등차수열의 합](https://www.acmicpc.net/problem/1419)<br>
 [#1629 곱셈](https://www.acmicpc.net/problem/1629)<br>
 [#1718 암호](https://www.acmicpc.net/problem/1718)<br>
