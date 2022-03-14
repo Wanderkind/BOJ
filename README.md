@@ -45,6 +45,7 @@ Curation of BOJ submissions
 [#14500 테트로미노](https://www.acmicpc.net/problem/14500)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
+[#16955 오목, 이길 수 있을까?](https://www.acmicpc.net/problem/16955)<br>
 [#17236 Heights](https://www.acmicpc.net/problem/17236)<br>
 [#17286 유미](https://www.acmicpc.net/problem/17286)<br>
 [#17386 선분 교차 1](https://www.acmicpc.net/problem/17386)<br>
