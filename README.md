@@ -44,6 +44,7 @@ Curation of BOJ submissions
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
 [#14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>
 [#14500 테트로미노](https://www.acmicpc.net/problem/14500)<br>
+[#14583 이음줄](https://www.acmicpc.net/problem/14583)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
 [#16955 오목, 이길 수 있을까?](https://www.acmicpc.net/problem/16955)<br>
