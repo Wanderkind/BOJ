@@ -34,6 +34,7 @@ Curation of BOJ submissions
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
 [#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
+[#6587 France '98](https://www.acmicpc.net/problem/6587)<br>
 [#6601 Knight Moves](https://www.acmicpc.net/problem/6601)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
