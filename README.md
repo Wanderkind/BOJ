@@ -51,6 +51,7 @@ Curation of BOJ submissions
 [#14583 이음줄](https://www.acmicpc.net/problem/14583)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
+[#16931 겉넓이 구하기](https://www.acmicpc.net/problem/16931)<br>
 [#16955 오목, 이길 수 있을까?](https://www.acmicpc.net/problem/16955)<br>
 [#17236 Heights](https://www.acmicpc.net/problem/17236)<br>
 [#17286 유미](https://www.acmicpc.net/problem/17286)<br>
