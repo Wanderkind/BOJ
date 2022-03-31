@@ -43,6 +43,7 @@ Curation of BOJ submissions
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
+[#11390 맛있는 과자](https://www.acmicpc.net/problem/11390)<br>
 [#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
 [#11758 CCW](https://www.acmicpc.net/problem/11758)<br>
