@@ -25,6 +25,7 @@ Curation of BOJ submissions
 [#1629 곱셈](https://www.acmicpc.net/problem/1629)<br>
 [#1718 암호](https://www.acmicpc.net/problem/1718)<br>
 [#1722 순열의 순서](https://www.acmicpc.net/problem/1722)<br>
+[#1759 암호 만들기](https://www.acmicpc.net/problem/1759)<br>
 [#1917 정육면체 전개도](https://www.acmicpc.net/problem/1917)<br>
 [#1986 Queens, Knights and Pawns](https://www.acmicpc.net/problem/1986)<br>
 [#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
