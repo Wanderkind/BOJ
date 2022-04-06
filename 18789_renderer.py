@@ -694,6 +694,7 @@ while cease==False:
                         print('\n')
                         if 8140<=M:
                             cease=True
+                            b=9**9
                             break
                     else:
                         print(M)
