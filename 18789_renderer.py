@@ -642,14 +642,13 @@ while cease==False:
         else:
             print('')
             print('no progress')
-            tt=len(WW)
-            print(f'len(WW) = {tt}')
+            print(f'len(WW) = {len(WW)}')
             b=-1
             while b<len(WW)-1:
                 b+=1
                 X,Y,Z=WW[b]
                 print('')
-                print(f'trying {X}, {Y}, {Z} : ({b+1}/{tt})\n')
+                print(f'trying {X}, {Y}, {Z} : ({b+1}/{len(WW)})\n')
                 L=[]
                 for uu in l:
                     L.append(uu[:])
@@ -691,10 +690,12 @@ while cease==False:
                         for i in l:
                             print(''.join(i))
                         print(M)
+                        b=9**9
+                        WW=[]
                         print('\n')
                         if 8140<=M:
                             cease=True
-                            b=9**9
+                            
                             break
                     else:
                         print(M)
