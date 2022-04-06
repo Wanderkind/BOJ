@@ -661,10 +661,10 @@ while cease==False:
                         print(f'scanning X = {X}...')
                         for Y in range(14):
                             for Z in range(10):
-                                L=[]
-                                for uu in l:
-                                    L.append(uu[:])
-                                L[X][Y]=str(Z)
+                                LL=[]
+                                for uu in L:
+                                    LL.append(uu[:])
+                                LL[X][Y]=str(Z)
                                 e=[]
                                 for r in range(8):
                                     for c in range(14):
@@ -673,7 +673,7 @@ while cease==False:
                                             if 0<=r+rmin and r+rmax<8 and 0<=c+cmin and c+cmax<14:
                                                 f=''
                                                 for F in range(len(i)-1):
-                                                    f+=str(L[r+i[F][0]][c+i[F][1]])
+                                                    f+=str(LL[r+i[F][0]][c+i[F][1]])
                                                 e.append(int(f))
                                 o=list(sorted(set(e)))
                                 g=-1
