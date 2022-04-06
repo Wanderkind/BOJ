@@ -642,13 +642,14 @@ while cease==False:
         else:
             print('')
             print('no progress')
-            print(f'len(WW) = {len(WW)}')
+            tt=len(WW)
+            print(f'len(WW) = {tt}')
             b=-1
             while b<len(WW)-1:
                 b+=1
                 X,Y,Z=WW[b]
                 print('')
-                print(f'trying {X}, {Y}, {Z}...')
+                print(f'trying {X}, {Y}, {Z} : ({b+1}/{tt})\n')
                 L=[]
                 for uu in l:
                     L.append(uu[:])
