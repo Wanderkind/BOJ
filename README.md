@@ -63,5 +63,6 @@ Curation of BOJ submissions
 [#17386 선분 교차 1](https://www.acmicpc.net/problem/17386)<br>
 [#18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
 [#18187 평면 분할](https://www.acmicpc.net/problem/18187)<br>
+[#18789 814 - 2](https://www.acmicpc.net/problem/18789)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
 [#24684 평면을 채우는 오각형](https://www.acmicpc.net/problem/24684)<br>
