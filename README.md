@@ -42,6 +42,7 @@ Curation of BOJ submissions
 [#6600 The Circumference of the Circle](https://www.acmicpc.net/problem/6600)<br>
 [#6601 Knight Moves](https://www.acmicpc.net/problem/6601)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
+[#7869 Circular Area](https://www.acmicpc.net/problem/7869)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
