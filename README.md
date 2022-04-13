@@ -53,6 +53,7 @@ Curation of BOJ submissions
 [#11758 CCW](https://www.acmicpc.net/problem/11758)<br>
 [#11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br>
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
+[#13869 Dating On-Line](https://www.acmicpc.net/problem/13869)<br>
 [#14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>
 [#14500 테트로미노](https://www.acmicpc.net/problem/14500)<br>
 [#14583 이음줄](https://www.acmicpc.net/problem/14583)<br>
