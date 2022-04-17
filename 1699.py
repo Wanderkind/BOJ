@@ -9,7 +9,7 @@ def o(n):
 N=int(input())
 n=isqrt(N)
 if n**2==N:z=1
-elif N in list(filter(o,range(100000))):z=4
+elif o(N)==True:z=4
 elif N in [sum(j) for j in c([i**2 for i in range(1,n+1)],2)]:z=2
 else:z=3
 print(z)
