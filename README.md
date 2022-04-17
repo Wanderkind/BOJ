@@ -23,6 +23,7 @@ Curation of BOJ submissions
 [#1399 보물의 위치](https://www.acmicpc.net/problem/1399)<br>
 [#1419 등차수열의 합](https://www.acmicpc.net/problem/1419)<br>
 [#1629 곱셈](https://www.acmicpc.net/problem/1629)<br>
+[#1699 제곱수의 합](https://www.acmicpc.net/problem/1699)<br>
 [#1718 암호](https://www.acmicpc.net/problem/1718)<br>
 [#1722 순열의 순서](https://www.acmicpc.net/problem/1722)<br>
 [#1759 암호 만들기](https://www.acmicpc.net/problem/1759)<br>
