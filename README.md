@@ -39,6 +39,7 @@ Curation of BOJ submissions
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
 [#4571 Grade School Multiplication](https://www.acmicpc.net/problem/4571)<br>
+[#4949 The Balance of the World](https://www.acmicpc.net/problem/4949)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
 [#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
 [#6587 France '98](https://www.acmicpc.net/problem/6587)<br>
