@@ -38,6 +38,7 @@ Curation of BOJ submissions
 [#2559 수열](https://www.acmicpc.net/problem/2559)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
+[#4330 Treasure Map](https://www.acmicpc.net/problem/4330)<br>
 [#4571 Grade School Multiplication](https://www.acmicpc.net/problem/4571)<br>
 [#4949 The Balance of the World](https://www.acmicpc.net/problem/4949)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
