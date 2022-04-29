@@ -37,6 +37,7 @@ Curation of BOJ submissions
 [#2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br>
 [#2527 직사각형](https://www.acmicpc.net/problem/2527)<br>
 [#2559 수열](https://www.acmicpc.net/problem/2559)<br>
+[#2630 색종이 만들기](https://www.acmicpc.net/problem/2630)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#2805 EKO](https://www.acmicpc.net/problem/2805)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
