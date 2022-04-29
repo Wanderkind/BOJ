@@ -47,6 +47,7 @@ Curation of BOJ submissions
 [#4949 The Balance of the World](https://www.acmicpc.net/problem/4949)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
 [#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
+[#6064 Cain Calendar](https://www.acmicpc.net/problem/6064)<br>
 [#6587 France '98](https://www.acmicpc.net/problem/6587)<br>
 [#6600 The Circumference of the Circle](https://www.acmicpc.net/problem/6600)<br>
 [#6601 Knight Moves](https://www.acmicpc.net/problem/6601)<br>
