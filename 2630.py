@@ -2,7 +2,7 @@ import math
 N=int(input())
 n,W,L,a=round(math.log2(N)),[],[[0]*N*N],1
 for _ in range(N):W+=[*input().split()]
-for q in range(N*N-1,-1,-1):
+for q in range(N*N):
  r,c=divmod(q,N);x=0
  for i in range(n):k=2**(n-i-1);x+=(2*(r//k)+c//k)*k**2;r%=k;c%=k
  L[0][x]=int(W[q])
