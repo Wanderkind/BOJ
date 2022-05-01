@@ -82,3 +82,4 @@ Curation of BOJ submissions
 [#22770 Ellipse Intersection](https://www.acmicpc.net/problem/22770)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
 [#24684 평면을 채우는 오각형](https://www.acmicpc.net/problem/24684)<br>
+[#25044 에어컨](https://www.acmicpc.net/problem/25044)<br>
