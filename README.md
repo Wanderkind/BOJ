@@ -30,6 +30,7 @@ Curation of BOJ submissions
 [#1718 암호](https://www.acmicpc.net/problem/1718)<br>
 [#1722 순열의 순서](https://www.acmicpc.net/problem/1722)<br>
 [#1759 암호 만들기](https://www.acmicpc.net/problem/1759)<br>
+[#1798 Conic distance](https://www.acmicpc.net/problem/1798)<br>
 [#1917 정육면체 전개도](https://www.acmicpc.net/problem/1917)<br>
 [#1930 정육면체 전개도](https://www.acmicpc.net/problem/1930)<br>
 [#1947 선물 전달](https://www.acmicpc.net/problem/1947)<br>
