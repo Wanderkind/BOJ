@@ -54,6 +54,7 @@ Curation of BOJ submissions
 [#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
 [#6064 Cain Calendar](https://www.acmicpc.net/problem/6064)<br>
 [#6587 France '98](https://www.acmicpc.net/problem/6587)<br>
+[#6588 Goldbach's Conjecture](https://www.acmicpc.net/problem/6588)<br>
 [#6600 The Circumference of the Circle](https://www.acmicpc.net/problem/6600)<br>
 [#6601 Knight Moves](https://www.acmicpc.net/problem/6601)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
