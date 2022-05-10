@@ -45,6 +45,7 @@ Curation of BOJ submissions
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#2805 EKO](https://www.acmicpc.net/problem/2805)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
+[#3000 DEJAVU](https://www.acmicpc.net/problem/3000)<br>
 [#3959 Ski Jumping](https://www.acmicpc.net/problem/3959)<br>
 [#4330 Treasure Map](https://www.acmicpc.net/problem/4330)<br>
 [#4571 Grade School Multiplication](https://www.acmicpc.net/problem/4571)<br>
