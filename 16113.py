@@ -1,4 +1,4 @@
-R=replace
+R=range
 n=int(input())//5
 I=input()
 L=[''.join([I[e*n+i]for e in R(5)])for i in R(n)]
