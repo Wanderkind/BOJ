@@ -94,6 +94,7 @@ Curation of BOJ submissions
 [#22940 선형 연립 방정식](https://www.acmicpc.net/problem/22940)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
 [#24684 평면을 채우는 오각형](https://www.acmicpc.net/problem/24684)<br>
+[#24726 미적분학 입문하기](https://www.acmicpc.net/problem/24726)<br>
 [#25044 에어컨](https://www.acmicpc.net/problem/25044)<br>
 [#25194 결전의 금요일](https://www.acmicpc.net/problem/25194)<br>
 [#25197 합주단 곰곰](https://www.acmicpc.net/problem/25197)<br>
