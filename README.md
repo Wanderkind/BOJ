@@ -90,6 +90,7 @@ Curation of BOJ submissions
 [#18187 평면 분할](https://www.acmicpc.net/problem/18187)<br>
 [#18613 Decimal Expansion](https://www.acmicpc.net/problem/18613)<br>
 [#21133 N-Queen 2](https://www.acmicpc.net/problem/21133)<br>
+[#21257 Fireworks](https://www.acmicpc.net/problem/21257)<br>
 [#22770 Ellipse Intersection](https://www.acmicpc.net/problem/22770)<br>
 [#22940 선형 연립 방정식](https://www.acmicpc.net/problem/22940)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
