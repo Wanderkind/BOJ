@@ -80,6 +80,7 @@ Curation of BOJ submissions
 [#14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>
 [#14500 테트로미노](https://www.acmicpc.net/problem/14500)<br>
 [#14583 이음줄](https://www.acmicpc.net/problem/14583)<br>
+[#14556 Balance](https://www.acmicpc.net/problem/14556)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
 [#16113 시그널](https://www.acmicpc.net/problem/16113)<br>
