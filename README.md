@@ -18,6 +18,7 @@ Curation of BOJ submissions
 [#1072 게임](https://www.acmicpc.net/problem/1072)<br>
 [#1074 Z](https://www.acmicpc.net/problem/1074)<br>
 [#1081 합](https://www.acmicpc.net/problem/1081)<br>
+[#1089 스타트링크 타워](https://www.acmicpc.net/problem/1089)<br>
 [#1174 줄어드는 수](https://www.acmicpc.net/problem/1174)<br>
 [#1193 분수찾기](https://www.acmicpc.net/problem/1193)<br>
 [#1256 사전](https://www.acmicpc.net/problem/1256)<br>
