@@ -4,9 +4,9 @@ input=sys.stdin.readline
 for _ in range(int(input())):
     h,a,b,c,A,B,C=map(int,input().split())
     def f(u,v):return H(a,h*u)/A+H(b,h*(1-u-v))/B+H(c,h*v)/C
-    x,y=1/4,1/4
-    for i in range(5):
-        t=2**(-i-3)
+    x,y=1/3,1/3
+    for i in range(4):
+        t=3**(-i-2)
         while 1:
             p=[[0,0],[1,0],[1,1],[0,1],[-1,1],[-1,0],[-1,-1],[0,-1],[1,-1]]
             q=[f(x+w[0]*t,y+w[1]*t)for w in p]
