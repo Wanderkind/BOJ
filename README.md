@@ -104,5 +104,6 @@ Curation of BOJ submissions
 [#24726 미적분학 입문하기](https://www.acmicpc.net/problem/24726)<br>
 [#24794 StopCard](https://www.acmicpc.net/problem/24794)<br>
 [#25044 에어컨](https://www.acmicpc.net/problem/25044)<br>
+[#25060 Pandemic Restrictions](https://www.acmicpc.net/problem/25060)<br>
 [#25194 결전의 금요일](https://www.acmicpc.net/problem/25194)<br>
 [#25197 합주단 곰곰](https://www.acmicpc.net/problem/25197)<br>
