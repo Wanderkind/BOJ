@@ -101,6 +101,7 @@ Curation of BOJ submissions
 [#22770 Ellipse Intersection](https://www.acmicpc.net/problem/22770)<br>
 [#22940 선형 연립 방정식](https://www.acmicpc.net/problem/22940)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
+[#24607 Square Bounce](https://www.acmicpc.net/problem/24607)<br>
 [#24684 평면을 채우는 오각형](https://www.acmicpc.net/problem/24684)<br>
 [#24726 미적분학 입문하기](https://www.acmicpc.net/problem/24726)<br>
 [#24794 StopCard](https://www.acmicpc.net/problem/24794)<br>
