@@ -43,6 +43,7 @@ Curation of BOJ submissions
 [#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
 [#2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br>
 [#2527 직사각형](https://www.acmicpc.net/problem/2527)<br>
+[#2557 Hello World](https://www.acmicpc.net/problem/2557)<br>
 [#2559 수열](https://www.acmicpc.net/problem/2559)<br>
 [#2606 바이러스](https://www.acmicpc.net/problem/2606)<br>
 [#2630 색종이 만들기](https://www.acmicpc.net/problem/2630)<br>
