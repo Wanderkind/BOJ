@@ -8,6 +8,7 @@ Curation of BOJ submissions
 
 ## problem links
 
+[#1000 ](https://www.acmicpc.net/problem/1000)<br>
 [#1004 어린 왕자](https://www.acmicpc.net/problem/1004)<br>
 [#1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)<br>
 [#1019 책 페이지](https://www.acmicpc.net/problem/1019)<br>
