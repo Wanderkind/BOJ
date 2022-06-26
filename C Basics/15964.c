@@ -4,9 +4,9 @@ int main(void)
 {
 	unsigned long long a;
 	unsigned long long b;
-	scanf("%ld", &a);
-	scanf("%ld", &b);
+	scanf("%lld", &a);
+	scanf("%lld", &b);
 	unsigned long long c = a*a-b*b;
-	printf("%ld", c); 
+	printf("%lld", c); 
 	return 0;
 }
