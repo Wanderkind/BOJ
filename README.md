@@ -98,6 +98,7 @@ Curation of BOJ submissions
 [#17286 유미](https://www.acmicpc.net/problem/17286)<br>
 [#17386 선분 교차 1](https://www.acmicpc.net/problem/17386)<br>
 [#17387 선분 교차 2](https://www.acmicpc.net/problem/17387)<br>
+[#17606 Integral Points](https://www.acmicpc.net/problem/17606)<br>
 [#18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
 [#18187 평면 분할](https://www.acmicpc.net/problem/18187)<br>
 [#18613 Decimal Expansion](https://www.acmicpc.net/problem/18613)<br>
