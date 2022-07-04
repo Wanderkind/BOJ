@@ -93,7 +93,7 @@ Curation of BOJ submissions
 [#15964 이상한 기호](https://www.acmicpc.net/problem/15964)<br>
 [#15997 승부 예측](https://www.acmicpc.net/problem/15997)<br>
 [#16113 시그널](https://www.acmicpc.net/problem/16113)<br>
-[#16313 Janitor Troulbles](https://www.acmicpc.net/problem/16313)<br>
+[#16313 Janitor Troubles](https://www.acmicpc.net/problem/16313)<br>
 [#16931 겉넓이 구하기](https://www.acmicpc.net/problem/16931)<br>
 [#16955 오목, 이길 수 있을까?](https://www.acmicpc.net/problem/16955)<br>
 [#17236 Heights](https://www.acmicpc.net/problem/17236)<br>
