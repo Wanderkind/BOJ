@@ -9,7 +9,9 @@ Curation of BOJ submissions
 ## problem links
 
 [#1000 A+B](https://www.acmicpc.net/problem/1000)<br>
+[#1001 A-B](https://www.acmicpc.net/problem/1001)<br>
 [#1004 어린 왕자](https://www.acmicpc.net/problem/1004)<br>
+[#1008 A/B](https://www.acmicpc.net/problem/1008)<br>
 [#1011 Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)<br>
 [#1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)<br>
 [#1019 책 페이지](https://www.acmicpc.net/problem/1019)<br>
@@ -48,6 +50,7 @@ Curation of BOJ submissions
 [#2527 직사각형](https://www.acmicpc.net/problem/2527)<br>
 [#2557 Hello World](https://www.acmicpc.net/problem/2557)<br>
 [#2559 수열](https://www.acmicpc.net/problem/2559)<br>
+[#2588 곱셈](https://www.acmicpc.net/problem/2588)<br>
 [#2606 바이러스](https://www.acmicpc.net/problem/2606)<br>
 [#2630 색종이 만들기](https://www.acmicpc.net/problem/2630)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
@@ -75,6 +78,8 @@ Curation of BOJ submissions
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#9553 Archery](https://www.acmicpc.net/problem/9553)<br>
 [#10718 We love kriii](https://www.acmicpc.net/problem/10718)<br>
+[#10869 사칙연산](https://www.acmicpc.net/problem/10869)<br>
+[#10926 ??!](https://www.acmicpc.net/problem/10926)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
 [#11390 맛있는 과자](https://www.acmicpc.net/problem/11390)<br>
 [#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
@@ -101,6 +106,7 @@ Curation of BOJ submissions
 [#17386 선분 교차 1](https://www.acmicpc.net/problem/17386)<br>
 [#17387 선분 교차 2](https://www.acmicpc.net/problem/17387)<br>
 [#17606 Integral Points](https://www.acmicpc.net/problem/17606)<br>
+[#18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)<br>
 [#18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
 [#18187 평면 분할](https://www.acmicpc.net/problem/18187)<br>
 [#18613 Decimal Expansion](https://www.acmicpc.net/problem/18613)<br>
