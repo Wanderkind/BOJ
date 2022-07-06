@@ -45,6 +45,7 @@ Curation of BOJ submissions
 [#1947 선물 전달](https://www.acmicpc.net/problem/1947)<br>
 [#1986 Queens, Knights and Pawns](https://www.acmicpc.net/problem/1986)<br>
 [#2004 조합 2의 개수](https://www.acmicpc.net/problem/2004)<br>
+[#2022 Crossed ladders](https://www.acmicpc.net/problem/2022)<br>
 [#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
 [#2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br>
 [#2527 직사각형](https://www.acmicpc.net/problem/2527)<br>
