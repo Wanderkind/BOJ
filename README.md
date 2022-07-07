@@ -91,6 +91,7 @@ Curation of BOJ submissions
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
 [#11758 CCW](https://www.acmicpc.net/problem/11758)<br>
 [#11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br>
+[#12977 원 위의 점](https://www.acmicpc.net/problem/12977)<br>
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
 [#13869 Dating On-Line](https://www.acmicpc.net/problem/13869)<br>
 [#14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>
