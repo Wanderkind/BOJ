@@ -115,6 +115,7 @@ Curation of BOJ submissions
 [#18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
 [#18187 평면 분할](https://www.acmicpc.net/problem/18187)<br>
 [#18613 Decimal Expansion](https://www.acmicpc.net/problem/18613)<br>
+[#18949 Intersection of Parabolas](https://www.acmicpc.net/problem/18949)<br>
 [#19347 The Catcher in the Rye](https://www.acmicpc.net/problem/19347)<br>
 [#20149 선분 교차 3](https://www.acmicpc.net/problem/20149)<br>
 [#21133 N-Queen 2](https://www.acmicpc.net/problem/21133)<br>
