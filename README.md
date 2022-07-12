@@ -85,6 +85,8 @@ Curation of BOJ submissions
 [#10718 We love kriii](https://www.acmicpc.net/problem/10718)<br>
 [#10869 사칙연산](https://www.acmicpc.net/problem/10869)<br>
 [#10926 ??!](https://www.acmicpc.net/problem/10926)<br>
+[#10990 별 찍기 - 15](https://www.acmicpc.net/problem/10990)<br>
+[#10991 별 찍기 - 16](https://www.acmicpc.net/problem/10991)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
 [#11390 맛있는 과자](https://www.acmicpc.net/problem/11390)<br>
 [#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
