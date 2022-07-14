@@ -56,6 +56,7 @@ Curation of BOJ submissions
 [#2606 바이러스](https://www.acmicpc.net/problem/2606)<br>
 [#2630 색종이 만들기](https://www.acmicpc.net/problem/2630)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
+[#2773 EXOCENTER OF A TRIANGLE](https://www.acmicpc.net/problem/2773)<br>
 [#2805 EKO](https://www.acmicpc.net/problem/2805)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
 [#2987 JABUKE](https://www.acmicpc.net/problem/2987)<br>
