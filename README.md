@@ -86,6 +86,7 @@ Curation of BOJ submissions
 [#9246 Dartboard](https://www.acmicpc.net/problem/9246)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#9553 Archery](https://www.acmicpc.net/problem/9553)<br>
+[#10325 Growling Gears](https://www.acmicpc.net/problem/10325)<br>
 [#10439 The Queen's Super-circular Patio](https://www.acmicpc.net/problem/10439)<br>
 [#10718 We love kriii](https://www.acmicpc.net/problem/10718)<br>
 [#10869 사칙연산](https://www.acmicpc.net/problem/10869)<br>
