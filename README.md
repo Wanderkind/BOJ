@@ -114,6 +114,7 @@ Curation of BOJ submissions
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
 [#15964 이상한 기호](https://www.acmicpc.net/problem/15964)<br>
+[#15991 1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991)<br>
 [#15997 승부 예측](https://www.acmicpc.net/problem/15997)<br>
 [#16113 시그널](https://www.acmicpc.net/problem/16113)<br>
 [#16313 Janitor Troubles](https://www.acmicpc.net/problem/16313)<br>
