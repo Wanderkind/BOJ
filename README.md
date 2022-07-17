@@ -97,6 +97,7 @@ Curation of BOJ submissions
 [#10996 별 찍기 - 21](https://www.acmicpc.net/problem/10996)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
 [#11390 맛있는 과자](https://www.acmicpc.net/problem/11390)<br>
+[#11514 Refract Facts](https://www.acmicpc.net/problem/11514)<br>
 [#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
 [#11664 선분과 점](https://www.acmicpc.net/problem/11664)<br>
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
