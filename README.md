@@ -91,6 +91,7 @@ Curation of BOJ submissions
 [#10439 The Queen's Super-circular Patio](https://www.acmicpc.net/problem/10439)<br>
 [#10718 We love kriii](https://www.acmicpc.net/problem/10718)<br>
 [#10869 사칙연산](https://www.acmicpc.net/problem/10869)<br>
+[#10886 0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886)<br>
 [#10926 ??!](https://www.acmicpc.net/problem/10926)<br>
 [#10990 별 찍기 - 15](https://www.acmicpc.net/problem/10990)<br>
 [#10991 별 찍기 - 16](https://www.acmicpc.net/problem/10991)<br>
