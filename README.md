@@ -141,6 +141,7 @@ Curation of BOJ submissions
 [#20149 선분 교차 3](https://www.acmicpc.net/problem/20149)<br>
 [#21133 N-Queen 2](https://www.acmicpc.net/problem/21133)<br>
 [#21257 Fireworks](https://www.acmicpc.net/problem/21257)<br>
+[#22034 Alto Singing](https://www.acmicpc.net/problem/22034)<br>
 [#22628 Colored Octahedra](https://www.acmicpc.net/problem/22628)<br>
 [#22704 Triangles](https://www.acmicpc.net/problem/22704)<br>
 [#22770 Ellipse Intersection](https://www.acmicpc.net/problem/22770)<br>
