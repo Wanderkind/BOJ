@@ -157,4 +157,5 @@ Curation of BOJ submissions
 [#25060 Pandemic Restrictions](https://www.acmicpc.net/problem/25060)<br>
 [#25194 결전의 금요일](https://www.acmicpc.net/problem/25194)<br>
 [#25197 합주단 곰곰](https://www.acmicpc.net/problem/25197)<br>
+[#25280 Marathon](https://www.acmicpc.net/problem/25280)<br>
 [#25312 200% Mixed Juice!](https://www.acmicpc.net/problem/25312)<br>
