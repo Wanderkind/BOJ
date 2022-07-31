@@ -135,6 +135,7 @@ Curation of BOJ submissions
 [#18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)<br>
 [#18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
 [#18187 평면 분할](https://www.acmicpc.net/problem/18187)<br>
+[#18575 Go West](https://www.acmicpc.net/problem/18575)<br>
 [#18613 Decimal Expansion](https://www.acmicpc.net/problem/18613)<br>
 [#18673 Fractionstellar](https://www.acmicpc.net/problem/18673)<br>
 [#18899 Encryption Function](https://www.acmicpc.net/problem/18899)<br>
