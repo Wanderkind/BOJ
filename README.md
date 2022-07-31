@@ -93,6 +93,7 @@ Curation of BOJ submissions
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#9553 Archery](https://www.acmicpc.net/problem/9553)<br>
 [#9726 Negative Binary](https://www.acmicpc.net/problem/9726)<br>
+[#9735 Solutions of Cubic Equation](https://www.acmicpc.net/problem/9735)<br>
 [#10325 Growling Gears](https://www.acmicpc.net/problem/10325)<br>
 [#10439 The Queen's Super-circular Patio](https://www.acmicpc.net/problem/10439)<br>
 [#10718 We love kriii](https://www.acmicpc.net/problem/10718)<br>
