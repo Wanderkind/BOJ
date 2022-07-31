@@ -140,6 +140,7 @@ Curation of BOJ submissions
 [#18673 Fractionstellar](https://www.acmicpc.net/problem/18673)<br>
 [#18899 Encryption Function](https://www.acmicpc.net/problem/18899)<br>
 [#18949 Intersection of Parabolas](https://www.acmicpc.net/problem/18949)<br>
+[#19128 Three Points](https://www.acmicpc.net/problem/19128)<br>
 [#19347 The Catcher in the Rye](https://www.acmicpc.net/problem/19347)<br>
 [#20149 선분 교차 3](https://www.acmicpc.net/problem/20149)<br>
 [#21133 N-Queen 2](https://www.acmicpc.net/problem/21133)<br>
