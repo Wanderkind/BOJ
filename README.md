@@ -38,6 +38,7 @@ Curation of BOJ submissions
 [#1694 Chessboard in FEN](https://www.acmicpc.net/problem/1694)<br>
 [#1697 Catch That Cow](https://www.acmicpc.net/problem/1697)<br>
 [#1699 제곱수의 합](https://www.acmicpc.net/problem/1699)<br>
+[#1708 볼록 껍질](https://www.acmicpc.net/problem/1708)<br>
 [#1718 암호](https://www.acmicpc.net/problem/1718)<br>
 [#1722 순열의 순서](https://www.acmicpc.net/problem/1722)<br>
 [#1759 암호 만들기](https://www.acmicpc.net/problem/1759)<br>
