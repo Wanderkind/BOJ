@@ -90,6 +90,7 @@ Curation of BOJ submissions
 [#8336 Chess](https://www.acmicpc.net/problem/8336)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9212 Triangles](https://www.acmicpc.net/problem/9212)<br>
+[#9240 Robert Hood](https://www.acmicpc.net/problem/9240)<br>
 [#9246 Dartboard](https://www.acmicpc.net/problem/9246)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#9553 Archery](https://www.acmicpc.net/problem/9553)<br>
