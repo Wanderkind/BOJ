@@ -34,6 +34,7 @@ Curation of BOJ submissions
 [#1419 등차수열의 합](https://www.acmicpc.net/problem/1419)<br>
 [#1484 다이어트](https://www.acmicpc.net/problem/1484)<br>
 [#1629 곱셈](https://www.acmicpc.net/problem/1629)<br>
+[#1630 오민식](https://www.acmicpc.net/problem/1630)<br>
 [#1654 랜선 자르기](https://www.acmicpc.net/problem/1654)<br>
 [#1694 Chessboard in FEN](https://www.acmicpc.net/problem/1694)<br>
 [#1697 Catch That Cow](https://www.acmicpc.net/problem/1697)<br>
