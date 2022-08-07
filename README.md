@@ -171,4 +171,5 @@ Curation of BOJ submissions
 [#25194 결전의 금요일](https://www.acmicpc.net/problem/25194)<br>
 [#25197 합주단 곰곰](https://www.acmicpc.net/problem/25197)<br>
 [#25280 Marathon](https://www.acmicpc.net/problem/25280)<br>
+[#25304 영수증](https://www.acmicpc.net/problem/25304)<br>
 [#25312 200% Mixed Juice!](https://www.acmicpc.net/problem/25312)<br>
