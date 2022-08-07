@@ -121,6 +121,7 @@ Curation of BOJ submissions
 [#12727 Numbers (Small)](https://www.acmicpc.net/problem/12727)<br>
 [#12977 원 위의 점](https://www.acmicpc.net/problem/12977)<br>
 [#13015 별 찍기 - 23](https://www.acmicpc.net/problem/13015)<br>
+[#13359 Fleecing the Raffle](https://www.acmicpc.net/problem/13359)<br>
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
 [#13869 Dating On-Line](https://www.acmicpc.net/problem/13869)<br>
 [#14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>
