@@ -174,4 +174,5 @@ Curation of BOJ submissions
 [#25280 Marathon](https://www.acmicpc.net/problem/25280)<br>
 [#25304 영수증](https://www.acmicpc.net/problem/25304)<br>
 [#25305 커트라인](https://www.acmicpc.net/problem/25305)<br>
+[#25308 방사형 그래프](https://www.acmicpc.net/problem/25308)<br>
 [#25312 200% Mixed Juice!](https://www.acmicpc.net/problem/25312)<br>
