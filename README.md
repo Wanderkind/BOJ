@@ -136,6 +136,7 @@ Curation of BOJ submissions
 [#16113 시그널](https://www.acmicpc.net/problem/16113)<br>
 [#16313 Janitor Troubles](https://www.acmicpc.net/problem/16313)<br>
 [#16931 겉넓이 구하기](https://www.acmicpc.net/problem/16931)<br>
+[#16953 A → B](https://www.acmicpc.net/problem/16953)<br>
 [#16955 오목, 이길 수 있을까?](https://www.acmicpc.net/problem/16955)<br>
 [#17236 Heights](https://www.acmicpc.net/problem/17236)<br>
 [#17286 유미](https://www.acmicpc.net/problem/17286)<br>
