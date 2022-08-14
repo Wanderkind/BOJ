@@ -63,7 +63,6 @@ Curation of BOJ submissions
 [#2606 바이러스](https://www.acmicpc.net/problem/2606)<br>
 [#2630 색종이 만들기](https://www.acmicpc.net/problem/2630)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
-[#2749 피보나치 수 3](https://www.acmicpc.net/problem/2749)<br>
 [#2773 EXOCENTER OF A TRIANGLE](https://www.acmicpc.net/problem/2773)<br>
 [#2805 EKO](https://www.acmicpc.net/problem/2805)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
@@ -114,6 +113,7 @@ Curation of BOJ submissions
 [#10996 별 찍기 - 21](https://www.acmicpc.net/problem/10996)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
 [#11390 맛있는 과자](https://www.acmicpc.net/problem/11390)<br>
+[#11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)<br>
 [#11514 Refract Facts](https://www.acmicpc.net/problem/11514)<br>
 [#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
 [#11664 선분과 점](https://www.acmicpc.net/problem/11664)<br>
