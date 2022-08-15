@@ -46,8 +46,8 @@ Curation of BOJ submissions
 [#1798 Conic distance](https://www.acmicpc.net/problem/1798)<br>
 [#1891 사분면](https://www.acmicpc.net/problem/1891)<br>
 [#1917 정육면체 전개도](https://www.acmicpc.net/problem/1917)<br>
-[#1930 정육면체 전개도](https://www.acmicpc.net/problem/1930)<br>
-[#1932 The Triangle](https://www.acmicpc.net/problem/1930)<br>
+[#1930 정사면체](https://www.acmicpc.net/problem/1930)<br>
+[#1932 The Triangle](https://www.acmicpc.net/problem/1932)<br>
 [#1947 선물 전달](https://www.acmicpc.net/problem/1947)<br>
 [#1986 Queens, Knights and Pawns](https://www.acmicpc.net/problem/1986)<br>
 [#2004 조합 2의 개수](https://www.acmicpc.net/problem/2004)<br>
