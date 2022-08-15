@@ -117,6 +117,7 @@ Curation of BOJ submissions
 [#11390 맛있는 과자](https://www.acmicpc.net/problem/11390)<br>
 [#11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)<br>
 [#11514 Refract Facts](https://www.acmicpc.net/problem/11514)<br>
+[#11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)<br>
 [#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
 [#11664 선분과 점](https://www.acmicpc.net/problem/11664)<br>
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
