@@ -70,6 +70,7 @@ Curation of BOJ submissions
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
 [#2987 JABUKE](https://www.acmicpc.net/problem/2987)<br>
 [#3000 DEJAVU](https://www.acmicpc.net/problem/3000)<br>
+[#3003 BIJELE](https://www.acmicpc.net/problem/3003)<br>
 [#3254 IT](https://www.acmicpc.net/problem/3254)<br>
 [#3733 Shares](https://www.acmicpc.net/problem/3733)<br>
 [#3881 Malfatti Circles](https://www.acmicpc.net/problem/3881)<br>
