@@ -94,6 +94,7 @@ Curation of BOJ submissions
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
 [#7869 Circular Area](https://www.acmicpc.net/problem/7869)<br>
 [#8336 Chess](https://www.acmicpc.net/problem/8336)<br>
+[#8370 Plane](https://www.acmicpc.net/problem/8370)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9212 Triangles](https://www.acmicpc.net/problem/9212)<br>
 [#9240 Robert Hood](https://www.acmicpc.net/problem/9240)<br>
