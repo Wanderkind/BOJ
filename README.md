@@ -110,6 +110,7 @@ Curation of BOJ submissions
 [#10886 0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886)<br>
 [#10903 Wall construction](https://www.acmicpc.net/problem/10903)<br>
 [#10926 ??!](https://www.acmicpc.net/problem/10926)<br>
+[#10950 A+B - 3](https://www.acmicpc.net/problem/10950)<br>
 [#10990 별 찍기 - 15](https://www.acmicpc.net/problem/10990)<br>
 [#10991 별 찍기 - 16](https://www.acmicpc.net/problem/10991)<br>
 [#10992 별 찍기 - 17](https://www.acmicpc.net/problem/10992)<br>
