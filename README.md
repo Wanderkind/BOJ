@@ -110,6 +110,7 @@ Curation of BOJ submissions
 [#10718 We love kriii](https://www.acmicpc.net/problem/10718)<br>
 [#10830 행렬 제곱](https://www.acmicpc.net/problem/10830)<br>
 [#10869 사칙연산](https://www.acmicpc.net/problem/10869)<br>
+[#10872 팩토리얼](https://www.acmicpc.net/problem/10872)<br>
 [#10886 0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886)<br>
 [#10903 Wall construction](https://www.acmicpc.net/problem/10903)<br>
 [#10926 ??!](https://www.acmicpc.net/problem/10926)<br>
