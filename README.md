@@ -82,6 +82,7 @@ Curation of BOJ submissions
 [#4673 Self Numbers](https://www.acmicpc.net/problem/4673)<br>
 [#4949 The Balance of the World](https://www.acmicpc.net/problem/4949)<br>
 [#5525 IOIOI](https://www.acmicpc.net/problem/5525)<br>
+[#5554 合計時間 (Total Time)](https://www.acmicpc.net/problem/5554)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
 [#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
 [#6064 Cain Calendar](https://www.acmicpc.net/problem/6064)<br>
