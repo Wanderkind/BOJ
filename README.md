@@ -152,6 +152,7 @@ Curation of BOJ submissions
 [#15997 승부 예측](https://www.acmicpc.net/problem/15997)<br>
 [#16113 시그널](https://www.acmicpc.net/problem/16113)<br>
 [#16115 팬이에요](https://www.acmicpc.net/problem/16115)<br>
+[#16190 Rising Sun](https://www.acmicpc.net/problem/16190)<br>
 [#16313 Janitor Troubles](https://www.acmicpc.net/problem/16313)<br>
 [#16931 겉넓이 구하기](https://www.acmicpc.net/problem/16931)<br>
 [#16953 A → B](https://www.acmicpc.net/problem/16953)<br>
