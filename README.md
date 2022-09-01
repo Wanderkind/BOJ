@@ -182,8 +182,9 @@ Curation of BOJ submissions
 [#22704 Triangles](https://www.acmicpc.net/problem/22704)<br>
 [#22770 Ellipse Intersection](https://www.acmicpc.net/problem/22770)<br>
 [#22940 선형 연립 방정식](https://www.acmicpc.net/problem/22940)<br>
-[#23317 구슬 굴리기](https://www.acmicpc.net/problem/23317)<br>
 [#23235 The Fastest Sorting Algorithm In The World](https://www.acmicpc.net/problem/23235)<br>
+[#23317 구슬 굴리기](https://www.acmicpc.net/problem/23317)<br>
+[#23555 Gaokao](https://www.acmicpc.net/problem/23555)<br>
 [#23926 Boring Numbers](https://www.acmicpc.net/problem/23926)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
 [#24607 Square Bounce](https://www.acmicpc.net/problem/24607)<br>
