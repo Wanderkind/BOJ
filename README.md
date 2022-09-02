@@ -176,6 +176,7 @@ Curation of BOJ submissions
 [#19128 Three Points](https://www.acmicpc.net/problem/19128)<br>
 [#19347 The Catcher in the Rye](https://www.acmicpc.net/problem/19347)<br>
 [#20149 선분 교차 3](https://www.acmicpc.net/problem/20149)<br>
+[#21105 New Financial Year](https://www.acmicpc.net/problem/21105)<br>
 [#21133 N-Queen 2](https://www.acmicpc.net/problem/21133)<br>
 [#21257 Fireworks](https://www.acmicpc.net/problem/21257)<br>
 [#21598 SciComLove](https://www.acmicpc.net/problem/21598)<br>
