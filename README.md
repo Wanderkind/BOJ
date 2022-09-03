@@ -150,6 +150,7 @@ Curation of BOJ submissions
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
 [#15032 Flipping Coins](https://www.acmicpc.net/problem/15032)<br>
 [#15059 Hard choice](https://www.acmicpc.net/problem/15059)<br>
+[#15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)<br>
 [#15964 이상한 기호](https://www.acmicpc.net/problem/15964)<br>
 [#15991 1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991)<br>
 [#15997 승부 예측](https://www.acmicpc.net/problem/15997)<br>
