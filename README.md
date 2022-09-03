@@ -80,6 +80,7 @@ Curation of BOJ submissions
 [#4330 Treasure Map](https://www.acmicpc.net/problem/4330)<br>
 [#4571 Grade School Multiplication](https://www.acmicpc.net/problem/4571)<br>
 [#4673 Self Numbers](https://www.acmicpc.net/problem/4673)<br>
+[#4801 Nine](https://www.acmicpc.net/problem/4801)<br>
 [#4949 The Balance of the World](https://www.acmicpc.net/problem/4949)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
 [#5525 IOIOI](https://www.acmicpc.net/problem/5525)<br>
