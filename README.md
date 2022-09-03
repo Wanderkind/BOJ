@@ -94,6 +94,7 @@ Curation of BOJ submissions
 [#6588 Goldbach's Conjecture](https://www.acmicpc.net/problem/6588)<br>
 [#6600 The Circumference of the Circle](https://www.acmicpc.net/problem/6600)<br>
 [#6601 Knight Moves](https://www.acmicpc.net/problem/6601)<br>
+[#6994 Hobbiton Farms](https://www.acmicpc.net/problem/6994)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
 [#7869 Circular Area](https://www.acmicpc.net/problem/7869)<br>
 [#8336 Chess](https://www.acmicpc.net/problem/8336)<br>
