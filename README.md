@@ -52,6 +52,7 @@ Curation of BOJ submissions
 [#1947 선물 전달](https://www.acmicpc.net/problem/1947)<br>
 [#1986 Queens, Knights and Pawns](https://www.acmicpc.net/problem/1986)<br>
 [#2004 조합 2의 개수](https://www.acmicpc.net/problem/2004)<br>
+[#2018 수들의 합 5](https://www.acmicpc.net/problem/2018)<br>
 [#2022 Crossed ladders](https://www.acmicpc.net/problem/2022)<br>
 [#2023 신기한 소수](https://www.acmicpc.net/problem/2023)<br>
 [#2049 가장 먼 두 점](https://www.acmicpc.net/problem/2049)<br>
