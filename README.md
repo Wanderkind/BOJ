@@ -91,6 +91,7 @@ Curation of BOJ submissions
 [#6194 Building the Moat](https://www.acmicpc.net/problem/6194)<br>
 [#6377 Problem Bee](https://www.acmicpc.net/problem/6377)<br>
 [#6439 Intersection](https://www.acmicpc.net/problem/6439)<br>
+[#6458 Circle Through Three Points](https://www.acmicpc.net/problem/6458)<br>
 [#6587 France '98](https://www.acmicpc.net/problem/6587)<br>
 [#6588 Goldbach's Conjecture](https://www.acmicpc.net/problem/6588)<br>
 [#6600 The Circumference of the Circle](https://www.acmicpc.net/problem/6600)<br>
