@@ -43,6 +43,7 @@ Curation of BOJ submissions
 [#1708 볼록 껍질](https://www.acmicpc.net/problem/1708)<br>
 [#1718 암호](https://www.acmicpc.net/problem/1718)<br>
 [#1722 순열의 순서](https://www.acmicpc.net/problem/1722)<br>
+[#1735 분수 합](https://www.acmicpc.net/problem/1735)<br>
 [#1748 broj](https://www.acmicpc.net/problem/1748)<br>
 [#1759 암호 만들기](https://www.acmicpc.net/problem/1759)<br>
 [#1798 Conic distance](https://www.acmicpc.net/problem/1798)<br>
