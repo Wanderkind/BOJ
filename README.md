@@ -185,6 +185,7 @@ Curation of BOJ submissions
 [#18949 Intersection of Parabolas](https://www.acmicpc.net/problem/18949)<br>
 [#19128 Three Points](https://www.acmicpc.net/problem/19128)<br>
 [#19347 The Catcher in the Rye](https://www.acmicpc.net/problem/19347)<br>
+[#19810 Isosceles triangles](https://www.acmicpc.net/problem/19810)<br>
 [#20149 선분 교차 3](https://www.acmicpc.net/problem/20149)<br>
 [#21105 New Financial Year](https://www.acmicpc.net/problem/21105)<br>
 [#21133 N-Queen 2](https://www.acmicpc.net/problem/21133)<br>
