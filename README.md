@@ -54,6 +54,7 @@ Curation of BOJ submissions
 [#1930 정사면체](https://www.acmicpc.net/problem/1930)<br>
 [#1932 The Triangle](https://www.acmicpc.net/problem/1932)<br>
 [#1947 선물 전달](https://www.acmicpc.net/problem/1947)<br>
+[#1951 활자](https://www.acmicpc.net/problem/1951)<br>
 [#1986 Queens, Knights and Pawns](https://www.acmicpc.net/problem/1986)<br>
 [#2004 조합 2의 개수](https://www.acmicpc.net/problem/2004)<br>
 [#2018 수들의 합 5](https://www.acmicpc.net/problem/2018)<br>
