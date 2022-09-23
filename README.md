@@ -158,6 +158,7 @@ Curation of BOJ submissions
 [#14500 테트로미노](https://www.acmicpc.net/problem/14500)<br>
 [#14583 이음줄](https://www.acmicpc.net/problem/14583)<br>
 [#14556 Balance](https://www.acmicpc.net/problem/14556)<br>
+[#14652 나는 행복합니다~](https://www.acmicpc.net/problem/14652)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
 [#15032 Flipping Coins](https://www.acmicpc.net/problem/15032)<br>
