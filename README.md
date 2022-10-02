@@ -231,3 +231,4 @@ Curation of BOJ submissions
 [#25305 커트라인](https://www.acmicpc.net/problem/25305)<br>
 [#25308 방사형 그래프](https://www.acmicpc.net/problem/25308)<br>
 [#25312 200% Mixed Juice!](https://www.acmicpc.net/problem/25312)<br>
+[#25704 출석 이벤트](https://www.acmicpc.net/problem/25704)<br>
