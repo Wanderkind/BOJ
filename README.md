@@ -73,6 +73,7 @@ Curation of BOJ submissions
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#2773 EXOCENTER OF A TRIANGLE](https://www.acmicpc.net/problem/2773)<br>
 [#2805 EKO](https://www.acmicpc.net/problem/2805)<br>
+[#2839 ŠEĆER](https://www.acmicpc.net/problem/2839)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
 [#2987 JABUKE](https://www.acmicpc.net/problem/2987)<br>
 [#3000 DEJAVU](https://www.acmicpc.net/problem/3000)<br>
