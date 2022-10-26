@@ -10,6 +10,7 @@ Curation of BOJ submissions
 
 [#1000 A+B](https://www.acmicpc.net/problem/1000)<br>
 [#1001 A-B](https://www.acmicpc.net/problem/1001)<br>
+[#1003 피보나치 함수](https://www.acmicpc.net/problem/1003)<br>
 [#1004 어린 왕자](https://www.acmicpc.net/problem/1004)<br>
 [#1008 A/B](https://www.acmicpc.net/problem/1008)<br>
 [#1011 Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)<br>
