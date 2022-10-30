@@ -109,6 +109,7 @@ Curation of BOJ submissions
 [#6600 The Circumference of the Circle](https://www.acmicpc.net/problem/6600)<br>
 [#6601 Knight Moves](https://www.acmicpc.net/problem/6601)<br>
 [#6749 Next in line](https://www.acmicpc.net/problem/6749)<br>
+[#6778 Which Alien?](https://www.acmicpc.net/problem/6778)<br>
 [#6994 Hobbiton Farms](https://www.acmicpc.net/problem/6994)<br>
 [#7113 Rectangle](https://www.acmicpc.net/problem/7113)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
