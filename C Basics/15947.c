@@ -22,8 +22,7 @@ int main(){
 	if (c>1){
 		if (c-a>-1){
 			printf(l[b]);
-			int i=0;
-			for (;i<a;i++){
+			while (a--){
 				printf("ru");
 			}
 		}
