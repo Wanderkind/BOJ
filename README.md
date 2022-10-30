@@ -99,6 +99,7 @@ Curation of BOJ submissions
 [#5554 合計時間 (Total Time)](https://www.acmicpc.net/problem/5554)<br>
 [#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
 [#6064 Cain Calendar](https://www.acmicpc.net/problem/6064)<br>
+[#6147 Bookshelf](https://www.acmicpc.net/problem/6147)<br>
 [#6194 Building the Moat](https://www.acmicpc.net/problem/6194)<br>
 [#6377 Problem Bee](https://www.acmicpc.net/problem/6377)<br>
 [#6439 Intersection](https://www.acmicpc.net/problem/6439)<br>
