@@ -157,6 +157,7 @@ Curation of BOJ submissions
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
 [#11758 CCW](https://www.acmicpc.net/problem/11758)<br>
 [#11772 POT](https://www.acmicpc.net/problem/11772)<br>
+[#11778 피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778)<br>
 [#11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br>
 [#11943 과일 옮기기](https://www.acmicpc.net/problem/11943)<br>
 [#12727 Numbers (Small)](https://www.acmicpc.net/problem/12727)<br>
