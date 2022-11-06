@@ -77,6 +77,7 @@ Curation of BOJ submissions
 [#2805 EKO](https://www.acmicpc.net/problem/2805)<br>
 [#2839 ŠEĆER](https://www.acmicpc.net/problem/2839)<br>
 [#2859 ASTRO](https://www.acmicpc.net/problem/2859)<br>
+[#2948 DATUM](https://www.acmicpc.net/problem/2948)<br>
 [#2987 JABUKE](https://www.acmicpc.net/problem/2987)<br>
 [#3000 DEJAVU](https://www.acmicpc.net/problem/3000)<br>
 [#3003 BIJELE](https://www.acmicpc.net/problem/3003)<br>
