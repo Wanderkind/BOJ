@@ -232,6 +232,7 @@ Curation of BOJ submissions
 [#23555 Gaokao](https://www.acmicpc.net/problem/23555)<br>
 [#23804 골뱅이 찍기 - ㄷ](https://www.acmicpc.net/problem/23804)<br>
 [#23805 골뱅이 찍기 - 돌아간 ㄹ](https://www.acmicpc.net/problem/23805)<br>
+[#23809 골뱅이 찍기 - 돌아간 ㅈ](https://www.acmicpc.net/problem/23809)<br>
 [#23926 Boring Numbers](https://www.acmicpc.net/problem/23926)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
 [#24607 Square Bounce](https://www.acmicpc.net/problem/24607)<br>
