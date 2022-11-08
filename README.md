@@ -179,6 +179,7 @@ Curation of BOJ submissions
 [#14652 나는 행복합니다~](https://www.acmicpc.net/problem/14652)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
+[#14915 진수 변환기](https://www.acmicpc.net/problem/14915)<br>
 [#14956 Philosoper's Walk](https://www.acmicpc.net/problem/14956)<br>
 [#15032 Flipping Coins](https://www.acmicpc.net/problem/15032)<br>
 [#15059 Hard choice](https://www.acmicpc.net/problem/15059)<br>
