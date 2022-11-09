@@ -207,6 +207,7 @@ Curation of BOJ submissions
 [#17387 선분 교차 2](https://www.acmicpc.net/problem/17387)<br>
 [#17496 스타후르츠](https://www.acmicpc.net/problem/17496)<br>
 [#17606 Integral Points](https://www.acmicpc.net/problem/17606)<br>
+[#17910 Joint Attack](https://www.acmicpc.net/problem/17910)<br>
 [#18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)<br>
 [#18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
 [#18187 평면 분할](https://www.acmicpc.net/problem/18187)<br>
