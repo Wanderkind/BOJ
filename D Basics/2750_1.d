@@ -14,10 +14,9 @@ void main(){
         scanf("%d",&a[i]);
     }
 
-    int[] b=a[0..n];
-    sort(b);
+    sort(a[0..n]);
 
-    foreach(i;b){
+    foreach(i;a[0..n]){
         writeln(i);
     }
 }
