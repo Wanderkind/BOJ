@@ -74,6 +74,7 @@ Curation of BOJ submissions
 [#2630 색종이 만들기](https://www.acmicpc.net/problem/2630)<br>
 [#2642 전개도](https://www.acmicpc.net/problem/2642)<br>
 [#2739 구구단](https://www.acmicpc.net/problem/2739)<br>
+[#2750 수 정렬하기](https://www.acmicpc.net/problem/2750)<br>
 [#2773 EXOCENTER OF A TRIANGLE](https://www.acmicpc.net/problem/2773)<br>
 [#2805 EKO](https://www.acmicpc.net/problem/2805)<br>
 [#2839 ŠEĆER](https://www.acmicpc.net/problem/2839)<br>
