@@ -259,3 +259,4 @@ Curation of BOJ submissions
 [#25312 200% Mixed Juice!](https://www.acmicpc.net/problem/25312)<br>
 [#25704 출석 이벤트](https://www.acmicpc.net/problem/25704)<br>
 [#25841 Digit Count](https://www.acmicpc.net/problem/25841)<br>
+[#25968 구분구적법](https://www.acmicpc.net/problem/25968)<br>
