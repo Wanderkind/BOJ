@@ -121,6 +121,7 @@ Curation of BOJ submissions
 [#6778 Which Alien?](https://www.acmicpc.net/problem/6778)<br>
 [#6994 Hobbiton Farms](https://www.acmicpc.net/problem/6994)<br>
 [#7113 Rectangle](https://www.acmicpc.net/problem/7113)<br>
+[#7562 Knight Moves](https://www.acmicpc.net/problem/7562)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
 [#7869 Circular Area](https://www.acmicpc.net/problem/7869)<br>
 [#8336 Chess](https://www.acmicpc.net/problem/8336)<br>
