@@ -64,6 +64,7 @@ Curation of BOJ submissions
 [#2049 가장 먼 두 점](https://www.acmicpc.net/problem/2049)<br>
 [#2155 삼각형의 최단 경로](https://www.acmicpc.net/problem/2155)<br>
 [#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
+[#2373 Fibonacci Game](https://www.acmicpc.net/problem/2373)<br>
 [#2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br>
 [#2506 점수계산](https://www.acmicpc.net/problem/2506)<br>
 [#2527 직사각형](https://www.acmicpc.net/problem/2527)<br>
