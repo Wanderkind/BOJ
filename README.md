@@ -95,6 +95,7 @@ Curation of BOJ submissions
 [#4167 Tunnelling the Earth](https://www.acmicpc.net/problem/4167)<br>
 [#4330 Treasure Map](https://www.acmicpc.net/problem/4330)<br>
 [#4571 Grade School Multiplication](https://www.acmicpc.net/problem/4571)<br>
+[#4655 Hangover](https://www.acmicpc.net/problem/4655)<br>
 [#4673 Self Numbers](https://www.acmicpc.net/problem/4673)<br>
 [#4801 Nine](https://www.acmicpc.net/problem/4801)<br>
 [#4804 Catching Shade in Flatland](https://www.acmicpc.net/problem/4804)<br>
