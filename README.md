@@ -106,8 +106,9 @@ Curation of BOJ submissions
 [#5525 IOIOI](https://www.acmicpc.net/problem/5525)<br>
 [#5532 宿題 (Homework)](https://www.acmicpc.net/problem/5532)<br>
 [#5554 合計時間 (Total Time)](https://www.acmicpc.net/problem/5554)<br>
-[#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
 [#5904 Moo](https://www.acmicpc.net/problem/5904)<br>
+[#5963 Cow Line](https://www.acmicpc.net/problem/5963)<br>
+[#5981 Cow Checkers](https://www.acmicpc.net/problem/5981)<br>
 [#6064 Cain Calendar](https://www.acmicpc.net/problem/6064)<br>
 [#6032 Toy Shopping](https://www.acmicpc.net/problem/6032)<br>
 [#6147 Bookshelf](https://www.acmicpc.net/problem/6147)<br>
