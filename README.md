@@ -142,6 +142,7 @@ Curation of BOJ submissions
 [#9735 Solutions of Cubic Equation](https://www.acmicpc.net/problem/9735)<br>
 [#9937 TROKUTI](https://www.acmicpc.net/problem/9937)<br>
 [#10093 Numbers](https://www.acmicpc.net/problem/10093)<br>
+[#10158 개미](https://www.acmicpc.net/problem/10158)<br>
 [#10325 Growling Gears](https://www.acmicpc.net/problem/10325)<br>
 [#10439 The Queen's Super-circular Patio](https://www.acmicpc.net/problem/10439)<br>
 [#10718 We love kriii](https://www.acmicpc.net/problem/10718)<br>
