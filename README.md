@@ -254,6 +254,7 @@ Curation of BOJ submissions
 [#23926 Boring Numbers](https://www.acmicpc.net/problem/23926)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
 [#24607 Square Bounce](https://www.acmicpc.net/problem/24607)<br>
+[#24678 돌무더기 게임 1](https://www.acmicpc.net/problem/24678)<br>
 [#24684 평면을 채우는 오각형](https://www.acmicpc.net/problem/24684)<br>
 [#24724 현대모비스와 함께하는 부품 관리](https://www.acmicpc.net/problem/24724)<br>
 [#24726 미적분학 입문하기](https://www.acmicpc.net/problem/24726)<br>
