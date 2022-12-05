@@ -267,6 +267,7 @@ Curation of BOJ submissions
 [#25197 합주단 곰곰](https://www.acmicpc.net/problem/25197)<br>
 [#25257 Monty's Hall](https://www.acmicpc.net/problem/25257)<br>
 [#25270 99 Problems](https://www.acmicpc.net/problem/25270)<br>
+[#25277 Culture Shock](https://www.acmicpc.net/problem/25277)<br>
 [#25280 Marathon](https://www.acmicpc.net/problem/25280)<br>
 [#25304 영수증](https://www.acmicpc.net/problem/25304)<br>
 [#25305 커트라인](https://www.acmicpc.net/problem/25305)<br>
