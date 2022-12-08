@@ -34,6 +34,7 @@ Curation of BOJ submissions
 [#1344 축구](https://www.acmicpc.net/problem/1344)<br>
 [#1399 보물의 위치](https://www.acmicpc.net/problem/1399)<br>
 [#1419 등차수열의 합](https://www.acmicpc.net/problem/1419)<br>
+[#1463 1로 만들기](https://www.acmicpc.net/problem/1463)<br>
 [#1484 다이어트](https://www.acmicpc.net/problem/1484)<br>
 [#1500 최대 곱](https://www.acmicpc.net/problem/1500)<br>
 [#1629 곱셈](https://www.acmicpc.net/problem/1629)<br>
