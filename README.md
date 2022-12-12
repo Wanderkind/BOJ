@@ -285,3 +285,4 @@ Curation of BOJ submissions
 [#26071 오락실에 간 총총이](https://www.acmicpc.net/problem/26071)<br>
 [#26072 곰곰이와 시소](https://www.acmicpc.net/problem/26072)<br>
 [#26073 외로운 곰곰이는 친구가 있어요](https://www.acmicpc.net/problem/26073)<br>
+[#26215 눈 치우기](https://www.acmicpc.net/problem/26215)<br>
