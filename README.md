@@ -176,6 +176,7 @@ Curation of BOJ submissions
 [#11778 피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778)<br>
 [#11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br>
 [#11943 과일 옮기기](https://www.acmicpc.net/problem/11943)<br>
+[#11966 2의 제곱인가?](https://www.acmicpc.net/problem/11966)<br>
 [#12727 Numbers (Small)](https://www.acmicpc.net/problem/12727)<br>
 [#12977 원 위의 점](https://www.acmicpc.net/problem/12977)<br>
 [#13015 별 찍기 - 23](https://www.acmicpc.net/problem/13015)<br>
