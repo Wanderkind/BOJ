@@ -24,6 +24,7 @@ Curation of BOJ submissions
 [#1074 Z](https://www.acmicpc.net/problem/1074)<br>
 [#1081 합](https://www.acmicpc.net/problem/1081)<br>
 [#1089 스타트링크 타워](https://www.acmicpc.net/problem/1089)<br>
+[#1105 팔](https://www.acmicpc.net/problem/1105)<br>
 [#1110 더하기 사이클](https://www.acmicpc.net/problem/1110)<br>
 [#1111 IQ Test](https://www.acmicpc.net/problem/1111)<br>
 [#1149 RGB거리](https://www.acmicpc.net/problem/1149)<br>
