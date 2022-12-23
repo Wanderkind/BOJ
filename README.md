@@ -291,4 +291,4 @@ Curation of BOJ submissions
 [#26073 외로운 곰곰이는 친구가 있어요](https://www.acmicpc.net/problem/26073)<br>
 [#26215 눈 치우기](https://www.acmicpc.net/problem/26215)<br>
 [#26314 Vowel Count](https://www.acmicpc.net/problem/26314)<br>
-[#26654 Vowel Count](https://www.acmicpc.net/problem/26654)<br>
+[#26654 원점](https://www.acmicpc.net/problem/26654)<br>
