@@ -140,6 +140,7 @@ Curation of BOJ submissions
 [#9246 Dartboard](https://www.acmicpc.net/problem/9246)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#9553 Archery](https://www.acmicpc.net/problem/9553)<br>
+[#9723 Right Triangle](https://www.acmicpc.net/problem/9723)<br>
 [#9726 Negative Binary](https://www.acmicpc.net/problem/9726)<br>
 [#9735 Solutions of Cubic Equation](https://www.acmicpc.net/problem/9735)<br>
 [#9937 TROKUTI](https://www.acmicpc.net/problem/9937)<br>
