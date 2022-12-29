@@ -221,6 +221,7 @@ Curation of BOJ submissions
 [#16190 Rising Sun](https://www.acmicpc.net/problem/16190)<br>
 [#16283 Farm](https://www.acmicpc.net/problem/16283)<br>
 [#16313 Janitor Troubles](https://www.acmicpc.net/problem/16313)<br>
+[#16360 Go Latin](https://www.acmicpc.net/problem/16360)<br>
 [#16395 파스칼의 삼각형](https://www.acmicpc.net/problem/16395)<br>
 [#16931 겉넓이 구하기](https://www.acmicpc.net/problem/16931)<br>
 [#16953 A → B](https://www.acmicpc.net/problem/16953)<br>
