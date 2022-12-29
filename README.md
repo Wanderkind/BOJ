@@ -167,6 +167,7 @@ Curation of BOJ submissions
 [#10996 별 찍기 - 21](https://www.acmicpc.net/problem/10996)<br>
 [#11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
+[#11087 Bobby's Bet](https://www.acmicpc.net/problem/11087)<br>
 [#11390 맛있는 과자](https://www.acmicpc.net/problem/11390)<br>
 [#11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)<br>
 [#11514 Refract Facts](https://www.acmicpc.net/problem/11514)<br>
