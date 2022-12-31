@@ -199,6 +199,7 @@ Curation of BOJ submissions
 [#14194 Grades](https://www.acmicpc.net/problem/14194)<br>
 [#14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>
 [#14500 테트로미노](https://www.acmicpc.net/problem/14500)<br>
+[#14563 완전수](https://www.acmicpc.net/problem/14563)<br>
 [#14583 이음줄](https://www.acmicpc.net/problem/14583)<br>
 [#14556 Balance](https://www.acmicpc.net/problem/14556)<br>
 [#14652 나는 행복합니다~](https://www.acmicpc.net/problem/14652)<br>
