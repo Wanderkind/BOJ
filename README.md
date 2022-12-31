@@ -175,6 +175,7 @@ Curation of BOJ submissions
 [#11514 Refract Facts](https://www.acmicpc.net/problem/11514)<br>
 [#11572 확률 실험](https://www.acmicpc.net/problem/11572)<br>
 [#11648 Persistence](https://www.acmicpc.net/problem/11648)<br>
+[#11653 소인수분해](https://www.acmicpc.net/problem/11653)<br>
 [#11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)<br>
 [#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
 [#11664 선분과 점](https://www.acmicpc.net/problem/11664)<br>
