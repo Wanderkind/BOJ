@@ -91,6 +91,7 @@ Curation of BOJ submissions
 [#3003 BIJELE](https://www.acmicpc.net/problem/3003)<br>
 [#3254 IT](https://www.acmicpc.net/problem/3254)<br>
 [#3460 Binary numbers](https://www.acmicpc.net/problem/3460)<br>
+[#3674 Fractal](https://www.acmicpc.net/problem/3674)<br>
 [#3733 Shares](https://www.acmicpc.net/problem/3733)<br>
 [#3881 Malfatti Circles](https://www.acmicpc.net/problem/3881)<br>
 [#3959 Ski Jumping](https://www.acmicpc.net/problem/3959)<br>
