@@ -104,6 +104,7 @@ Curation of BOJ submissions
 [#4673 Self Numbers](https://www.acmicpc.net/problem/4673)<br>
 [#4801 Nine](https://www.acmicpc.net/problem/4801)<br>
 [#4804 Catching Shade in Flatland](https://www.acmicpc.net/problem/4804)<br>
+[#4816 Faulty Odometer](https://www.acmicpc.net/problem/4816)<br>
 [#4949 The Balance of the World](https://www.acmicpc.net/problem/4949)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
 [#5430 Integer Lists](https://www.acmicpc.net/problem/5430)<br>
