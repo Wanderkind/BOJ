@@ -262,6 +262,7 @@ Curation of BOJ submissions
 [#20149 선분 교차 3](https://www.acmicpc.net/problem/20149)<br>
 [#21105 New Financial Year](https://www.acmicpc.net/problem/21105)<br>
 [#21133 N-Queen 2](https://www.acmicpc.net/problem/21133)<br>
+[#21235 Year of the Cow](https://www.acmicpc.net/problem/21235)<br>
 [#21257 Fireworks](https://www.acmicpc.net/problem/21257)<br>
 [#21300 Bottle Return](https://www.acmicpc.net/problem/21300)<br>
 [#21324 Mars Message](https://www.acmicpc.net/problem/21324)<br>
