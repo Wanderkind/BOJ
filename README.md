@@ -68,9 +68,19 @@ Curation of BOJ submissions
 [#2155 삼각형의 최단 경로](https://www.acmicpc.net/problem/2155)<br>
 [#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
 [#2373 Fibonacci Game](https://www.acmicpc.net/problem/2373)<br>
+[#2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)<br>
+[#2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)<br>
+[#2440 별 찍기 - 3](https://www.acmicpc.net/problem/2440)<br>
+[#2441 별 찍기 - 4](https://www.acmicpc.net/problem/2441)<br>
+[#2442 별 찍기 - 5](https://www.acmicpc.net/problem/2442)<br>
+[#2443 별 찍기 - 6](https://www.acmicpc.net/problem/2443)<br>
+[#2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)<br>
+[#2445 별 찍기 - 8](https://www.acmicpc.net/problem/2445)<br>
+[#2446 별 찍기 - 9](https://www.acmicpc.net/problem/2446)<br>
 [#2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br>
 [#2506 점수계산](https://www.acmicpc.net/problem/2506)<br>
 [#2527 직사각형](https://www.acmicpc.net/problem/2527)<br>
+[#2556 별 찍기 - 14](https://www.acmicpc.net/problem/2556)<br>
 [#2557 Hello World](https://www.acmicpc.net/problem/2557)<br>
 [#2559 수열](https://www.acmicpc.net/problem/2559)<br>
 [#2588 곱셈](https://www.acmicpc.net/problem/2588)<br>
@@ -169,7 +179,9 @@ Curation of BOJ submissions
 [#10990 별 찍기 - 15](https://www.acmicpc.net/problem/10990)<br>
 [#10991 별 찍기 - 16](https://www.acmicpc.net/problem/10991)<br>
 [#10992 별 찍기 - 17](https://www.acmicpc.net/problem/10992)<br>
+[#10994 별 찍기 - 19](https://www.acmicpc.net/problem/10994)<br>
 [#10996 별 찍기 - 21](https://www.acmicpc.net/problem/10996)<br>
+[#10997 별 찍기 - 12](https://www.acmicpc.net/problem/10997)<br>
 [#11050 이항 계수 1](https://www.acmicpc.net/problem/11050)<br>
 [#11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
@@ -217,6 +229,7 @@ Curation of BOJ submissions
 [#15032 Flipping Coins](https://www.acmicpc.net/problem/15032)<br>
 [#15059 Hard choice](https://www.acmicpc.net/problem/15059)<br>
 [#15120 Unloaded Die](https://www.acmicpc.net/problem/15120)<br>
+[#15122 Forbidden Zero](https://www.acmicpc.net/problem/15122)<br>
 [#15726 이칙연산](https://www.acmicpc.net/problem/15726)<br>
 [#15727 조별과제를 하려는데 조장이 사라졌다](https://www.acmicpc.net/problem/15727)<br>
 [#15735 삼각](https://www.acmicpc.net/problem/15735)<br>
