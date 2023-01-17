@@ -280,6 +280,7 @@ Curation of BOJ submissions
 [#21300 Bottle Return](https://www.acmicpc.net/problem/21300)<br>
 [#21324 Mars Message](https://www.acmicpc.net/problem/21324)<br>
 [#21598 SciComLove](https://www.acmicpc.net/problem/21598)<br>
+[#21631 Checkers](https://www.acmicpc.net/problem/21631)<br>
 [#22007 Zeros](https://www.acmicpc.net/problem/22007)<br>
 [#22034 Alto Singing](https://www.acmicpc.net/problem/22034)<br>
 [#22628 Colored Octahedra](https://www.acmicpc.net/problem/22628)<br>
