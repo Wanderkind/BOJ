@@ -181,7 +181,7 @@ Curation of BOJ submissions
 [#10992 별 찍기 - 17](https://www.acmicpc.net/problem/10992)<br>
 [#10994 별 찍기 - 19](https://www.acmicpc.net/problem/10994)<br>
 [#10996 별 찍기 - 21](https://www.acmicpc.net/problem/10996)<br>
-[#10997 별 찍기 - 12](https://www.acmicpc.net/problem/10997)<br>
+[#10997 별 찍기 - 22](https://www.acmicpc.net/problem/10997)<br>
 [#11050 이항 계수 1](https://www.acmicpc.net/problem/11050)<br>
 [#11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)<br>
 [#11082 Be Rational](https://www.acmicpc.net/problem/11082)<br>
