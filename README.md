@@ -154,6 +154,7 @@ Curation of BOJ submissions
 [#9226 Pig Latin](https://www.acmicpc.net/problem/9226)<br>
 [#9240 Robert Hood](https://www.acmicpc.net/problem/9240)<br>
 [#9246 Dartboard](https://www.acmicpc.net/problem/9246)<br>
+[#9399 Best Friends](https://www.acmicpc.net/problem/9399)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#9553 Archery](https://www.acmicpc.net/problem/9553)<br>
 [#9693 Sifar](https://www.acmicpc.net/problem/9693)<br>
