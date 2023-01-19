@@ -213,6 +213,7 @@ Curation of BOJ submissions
 [#13245 Sum of digits](https://www.acmicpc.net/problem/13245)<br>
 [#13359 Fleecing the Raffle](https://www.acmicpc.net/problem/13359)<br>
 [#13377 Dictionary](https://www.acmicpc.net/problem/13377)<br>
+[#13484 Tarifa](https://www.acmicpc.net/problem/13484)<br>
 [#13752 Histogram](https://www.acmicpc.net/problem/13752)<br>
 [#13869 Dating On-Line](https://www.acmicpc.net/problem/13869)<br>
 [#14194 Grades](https://www.acmicpc.net/problem/14194)<br>
