@@ -330,3 +330,4 @@ Curation of BOJ submissions
 [#26314 Vowel Count](https://www.acmicpc.net/problem/26314)<br>
 [#26654 원점](https://www.acmicpc.net/problem/26654)<br>
 [#27160 할리갈리](https://www.acmicpc.net/problem/27160)<br>
+[#27272 Пары](https://www.acmicpc.net/problem/27272)<br>
