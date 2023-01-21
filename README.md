@@ -106,6 +106,7 @@ Curation of BOJ submissions
 [#3733 Shares](https://www.acmicpc.net/problem/3733)<br>
 [#3881 Malfatti Circles](https://www.acmicpc.net/problem/3881)<br>
 [#3959 Ski Jumping](https://www.acmicpc.net/problem/3959)<br>
+[#3964 Faculty Dividing Powers](https://www.acmicpc.net/problem/3964)<br>
 [#4062 Give Me an E](https://www.acmicpc.net/problem/4062)<br>
 [#4276 How many 0's?](https://www.acmicpc.net/problem/4276)<br>
 [#4167 Tunnelling the Earth](https://www.acmicpc.net/problem/4167)<br>
