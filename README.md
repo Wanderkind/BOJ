@@ -52,6 +52,7 @@ Curation of BOJ submissions
 [#1748 broj](https://www.acmicpc.net/problem/1748)<br>
 [#1759 암호 만들기](https://www.acmicpc.net/problem/1759)<br>
 [#1798 Conic distance](https://www.acmicpc.net/problem/1798)<br>
+[#1850 최대공약수](https://www.acmicpc.net/problem/1850)<br>
 [#1891 사분면](https://www.acmicpc.net/problem/1891)<br>
 [#1892 가위바위보](https://www.acmicpc.net/problem/1892)<br>
 [#1917 정육면체 전개도](https://www.acmicpc.net/problem/1917)<br>
