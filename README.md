@@ -224,6 +224,7 @@ Curation of BOJ submissions
 [#14563 완전수](https://www.acmicpc.net/problem/14563)<br>
 [#14583 이음줄](https://www.acmicpc.net/problem/14583)<br>
 [#14556 Balance](https://www.acmicpc.net/problem/14556)<br>
+[#14609 구분구적법 (Large)](https://www.acmicpc.net/problem/14609)<br>
 [#14652 나는 행복합니다~](https://www.acmicpc.net/problem/14652)<br>
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14723 이산수학 과제](https://www.acmicpc.net/problem/14723)<br>
