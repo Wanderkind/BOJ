@@ -147,6 +147,7 @@ Curation of BOJ submissions
 [#7113 Rectangle](https://www.acmicpc.net/problem/7113)<br>
 [#7562 Knight Moves](https://www.acmicpc.net/problem/7562)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
+[#7786 Find the Sum](https://www.acmicpc.net/problem/7786)<br>
 [#7869 Circular Area](https://www.acmicpc.net/problem/7869)<br>
 [#8336 Chess](https://www.acmicpc.net/problem/8336)<br>
 [#8370 Plane](https://www.acmicpc.net/problem/8370)<br>
