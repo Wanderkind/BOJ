@@ -278,6 +278,7 @@ Curation of BOJ submissions
 [#19347 The Catcher in the Rye](https://www.acmicpc.net/problem/19347)<br>
 [#19810 Isosceles triangles](https://www.acmicpc.net/problem/19810)<br>
 [#19947 투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)<br>
+[#19957 Шахматная головоломка](https://www.acmicpc.net/problem/19957)<br>
 [#20004 배스킨라빈스 31](https://www.acmicpc.net/problem/20004)<br>
 [#20149 선분 교차 3](https://www.acmicpc.net/problem/20149)<br>
 [#21105 New Financial Year](https://www.acmicpc.net/problem/21105)<br>
