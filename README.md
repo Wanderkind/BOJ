@@ -281,6 +281,7 @@ Curation of BOJ submissions
 [#19957 Шахматная головоломка](https://www.acmicpc.net/problem/19957)<br>
 [#20004 배스킨라빈스 31](https://www.acmicpc.net/problem/20004)<br>
 [#20149 선분 교차 3](https://www.acmicpc.net/problem/20149)<br>
+[#20273 You’ve goat me stumped](https://www.acmicpc.net/problem/20273)<br>
 [#21105 New Financial Year](https://www.acmicpc.net/problem/21105)<br>
 [#21133 N-Queen 2](https://www.acmicpc.net/problem/21133)<br>
 [#21235 Year of the Cow](https://www.acmicpc.net/problem/21235)<br>
