@@ -105,6 +105,7 @@ Curation of BOJ submissions
 [#3460 Binary numbers](https://www.acmicpc.net/problem/3460)<br>
 [#3674 Fractal](https://www.acmicpc.net/problem/3674)<br>
 [#3733 Shares](https://www.acmicpc.net/problem/3733)<br>
+[#3783 Cube Root](https://www.acmicpc.net/problem/3783)<br>
 [#3881 Malfatti Circles](https://www.acmicpc.net/problem/3881)<br>
 [#3959 Ski Jumping](https://www.acmicpc.net/problem/3959)<br>
 [#3964 Faculty Dividing Powers](https://www.acmicpc.net/problem/3964)<br>
