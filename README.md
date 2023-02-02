@@ -147,6 +147,7 @@ Curation of BOJ submissions
 [#6845 Federal Voting Age](https://www.acmicpc.net/problem/6845)<br>
 [#6994 Hobbiton Farms](https://www.acmicpc.net/problem/6994)<br>
 [#7113 Rectangle](https://www.acmicpc.net/problem/7113)<br>
+[#7489 Factorials](https://www.acmicpc.net/problem/7489)<br>
 [#7562 Knight Moves](https://www.acmicpc.net/problem/7562)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
 [#7786 Find the Sum](https://www.acmicpc.net/problem/7786)<br>
