@@ -65,6 +65,7 @@ Curation of BOJ submissions
 [#2018 수들의 합 5](https://www.acmicpc.net/problem/2018)<br>
 [#2022 Crossed ladders](https://www.acmicpc.net/problem/2022)<br>
 [#2023 신기한 소수](https://www.acmicpc.net/problem/2023)<br>
+[#2033 반올림](https://www.acmicpc.net/problem/2033)<br>
 [#2049 가장 먼 두 점](https://www.acmicpc.net/problem/2049)<br>
 [#2155 삼각형의 최단 경로](https://www.acmicpc.net/problem/2155)<br>
 [#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
