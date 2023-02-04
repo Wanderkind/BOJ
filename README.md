@@ -344,3 +344,4 @@ Curation of BOJ submissions
 [#27066 나무 블럭 게임](https://www.acmicpc.net/problem/27066)<br>
 [#27160 할리갈리](https://www.acmicpc.net/problem/27160)<br>
 [#27272 Пары](https://www.acmicpc.net/problem/27272)<br>
+[#27318 세상에서 가장 달달한 디저트 만들기](https://www.acmicpc.net/problem/27318)<br>
