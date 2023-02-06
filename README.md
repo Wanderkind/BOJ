@@ -206,6 +206,7 @@ Curation of BOJ submissions
 [#11662 민호와 강호](https://www.acmicpc.net/problem/11662)<br>
 [#11664 선분과 점](https://www.acmicpc.net/problem/11664)<br>
 [#11687 팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687)<br>
+[#11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)<br>
 [#11758 CCW](https://www.acmicpc.net/problem/11758)<br>
 [#11772 POT](https://www.acmicpc.net/problem/11772)<br>
 [#11778 피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778)<br>
