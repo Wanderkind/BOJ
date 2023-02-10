@@ -267,6 +267,7 @@ Curation of BOJ submissions
 [#17386 선분 교차 1](https://www.acmicpc.net/problem/17386)<br>
 [#17387 선분 교차 2](https://www.acmicpc.net/problem/17387)<br>
 [#17496 스타후르츠](https://www.acmicpc.net/problem/17496)<br>
+[#17586 Diagonal Cut](https://www.acmicpc.net/problem/17586)<br>
 [#17606 Integral Points](https://www.acmicpc.net/problem/17606)<br>
 [#17843 시계](https://www.acmicpc.net/problem/17843)<br>
 [#17910 Joint Attack](https://www.acmicpc.net/problem/17910)<br>
