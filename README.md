@@ -349,3 +349,4 @@ Curation of BOJ submissions
 [#27160 할리갈리](https://www.acmicpc.net/problem/27160)<br>
 [#27272 Пары](https://www.acmicpc.net/problem/27272)<br>
 [#27318 세상에서 가장 달달한 디저트 만들기](https://www.acmicpc.net/problem/27318)<br>
+[#27452 (재밌고 웃기고 센스있고 깔끔한 제목)](https://www.acmicpc.net/problem/27452)<br>
