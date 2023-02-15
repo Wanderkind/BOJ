@@ -200,6 +200,7 @@ Curation of BOJ submissions
 [#11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)<br>
 [#11514 Refract Facts](https://www.acmicpc.net/problem/11514)<br>
 [#11572 확률 실험](https://www.acmicpc.net/problem/11572)<br>
+[#11620 Hovering Hornet](https://www.acmicpc.net/problem/11620)<br>
 [#11648 Persistence](https://www.acmicpc.net/problem/11648)<br>
 [#11653 소인수분해](https://www.acmicpc.net/problem/11653)<br>
 [#11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)<br>
