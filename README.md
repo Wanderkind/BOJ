@@ -273,6 +273,7 @@ Curation of BOJ submissions
 [#17496 스타후르츠](https://www.acmicpc.net/problem/17496)<br>
 [#17586 Diagonal Cut](https://www.acmicpc.net/problem/17586)<br>
 [#17606 Integral Points](https://www.acmicpc.net/problem/17606)<br>
+[#17608 막대기](https://www.acmicpc.net/problem/17608)<br>
 [#17843 시계](https://www.acmicpc.net/problem/17843)<br>
 [#17910 Joint Attack](https://www.acmicpc.net/problem/17910)<br>
 [#18004 From A to B](https://www.acmicpc.net/problem/18004)<br>
