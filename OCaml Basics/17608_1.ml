@@ -1,0 +1,1 @@
+let rec s = function 0 -> [] | x -> Scanf.scanf "%d\n" @@ fun n -> n :: s (x - 1) in let rec f = function [] -> (0, 0) | h :: t -> let (p, q) = f t in if h > p then (h, q + 1) else (p, q) in read_int() |> s |> f |> snd |> print_int
