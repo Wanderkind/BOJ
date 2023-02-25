@@ -159,6 +159,7 @@ Curation of BOJ submissions
 [#8723 Patyki](https://www.acmicpc.net/problem/8723)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9010 Möbius Strip](https://www.acmicpc.net/problem/9010)<br>
+[#9012 Parenthesis](https://www.acmicpc.net/problem/9012)<br>
 [#9212 Triangles](https://www.acmicpc.net/problem/9212)<br>
 [#9226 Pig Latin](https://www.acmicpc.net/problem/9226)<br>
 [#9240 Robert Hood](https://www.acmicpc.net/problem/9240)<br>
