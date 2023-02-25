@@ -1,9 +1,9 @@
 let rec stack ad temp point lst =
   let c = Scanf.scanf "%c" (fun c -> c) in
-  let on = temp > 0 in
+  let k w = if temp > 0 then temp*w else temp+w in 
   match c with
-  | '(' -> stack true (if on then temp*2 else temp+2) point @@ 2 :: lst
-  | '[' -> stack true (if on then temp*3 else temp+3) point @@ 3 :: lst
+  | '(' -> stack true (k 2) point @@ 2 :: lst
+  | '[' -> stack true (k 3) point @@ 3 :: lst
   | ')' -> (
     match lst with
     | 2 :: t -> stack false (temp/2) (if ad then point+temp else point) t
