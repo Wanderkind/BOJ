@@ -80,6 +80,7 @@ Curation of BOJ submissions
 [#2445 별 찍기 - 8](https://www.acmicpc.net/problem/2445)<br>
 [#2446 별 찍기 - 9](https://www.acmicpc.net/problem/2446)<br>
 [#2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br>
+[#2504 괄호의 값](https://www.acmicpc.net/problem/2504)<br>
 [#2506 점수계산](https://www.acmicpc.net/problem/2506)<br>
 [#2527 직사각형](https://www.acmicpc.net/problem/2527)<br>
 [#2556 별 찍기 - 14](https://www.acmicpc.net/problem/2556)<br>
