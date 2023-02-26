@@ -358,3 +358,4 @@ Curation of BOJ submissions
 [#27318 세상에서 가장 달달한 디저트 만들기](https://www.acmicpc.net/problem/27318)<br>
 [#27446 랩실에서 잘 자요](https://www.acmicpc.net/problem/27446)<br>
 [#27452 (재밌고 웃기고 센스있고 깔끔한 제목)](https://www.acmicpc.net/problem/27452)<br>
+[#27513 스네이크 그리기](https://www.acmicpc.net/problem/27513)<br>
