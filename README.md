@@ -177,6 +177,7 @@ Curation of BOJ submissions
 [#10325 Growling Gears](https://www.acmicpc.net/problem/10325)<br>
 [#10439 The Queen's Super-circular Patio](https://www.acmicpc.net/problem/10439)<br>
 [#10718 We love kriii](https://www.acmicpc.net/problem/10718)<br>
+[#10799 쇠막대기](https://www.acmicpc.net/problem/10799)<br>
 [#10824 네 수](https://www.acmicpc.net/problem/10824)<br>
 [#10829 이진수 변환](https://www.acmicpc.net/problem/10829)<br>
 [#10830 행렬 제곱](https://www.acmicpc.net/problem/10830)<br>
