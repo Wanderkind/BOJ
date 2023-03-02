@@ -108,6 +108,7 @@ Curation of BOJ submissions
 [#3674 Fractal](https://www.acmicpc.net/problem/3674)<br>
 [#3733 Shares](https://www.acmicpc.net/problem/3733)<br>
 [#3783 Cube Root](https://www.acmicpc.net/problem/3783)<br>
+[#3790 Crazy tea party](https://www.acmicpc.net/problem/3790)<br>
 [#3881 Malfatti Circles](https://www.acmicpc.net/problem/3881)<br>
 [#3959 Ski Jumping](https://www.acmicpc.net/problem/3959)<br>
 [#3964 Faculty Dividing Powers](https://www.acmicpc.net/problem/3964)<br>
@@ -151,6 +152,7 @@ Curation of BOJ submissions
 [#7113 Rectangle](https://www.acmicpc.net/problem/7113)<br>
 [#7489 Factorials](https://www.acmicpc.net/problem/7489)<br>
 [#7562 Knight Moves](https://www.acmicpc.net/problem/7562)<br>
+[#7595 Triangles](https://www.acmicpc.net/problem/7595)<br>
 [#7568 덩치](https://www.acmicpc.net/problem/7568)<br>
 [#7786 Find the Sum](https://www.acmicpc.net/problem/7786)<br>
 [#7869 Circular Area](https://www.acmicpc.net/problem/7869)<br>
@@ -174,6 +176,7 @@ Curation of BOJ submissions
 [#9937 TROKUTI](https://www.acmicpc.net/problem/9937)<br>
 [#10093 Numbers](https://www.acmicpc.net/problem/10093)<br>
 [#10158 개미](https://www.acmicpc.net/problem/10158)<br>
+[#10181 Federation Favorites](https://www.acmicpc.net/problem/10181)<br>
 [#10325 Growling Gears](https://www.acmicpc.net/problem/10325)<br>
 [#10418 Yet Satisfiability Again!](https://www.acmicpc.net/problem/10418)<br>
 [#10439 The Queen's Super-circular Patio](https://www.acmicpc.net/problem/10439)<br>
