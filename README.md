@@ -158,6 +158,7 @@ Curation of BOJ submissions
 [#7869 Circular Area](https://www.acmicpc.net/problem/7869)<br>
 [#8336 Chess](https://www.acmicpc.net/problem/8336)<br>
 [#8370 Plane](https://www.acmicpc.net/problem/8370)<br>
+[#8575 Śpiew](https://www.acmicpc.net/problem/8575)<br>
 [#8723 Patyki](https://www.acmicpc.net/problem/8723)<br>
 [#8891 Dot Number](https://www.acmicpc.net/problem/8891)<br>
 [#9010 Möbius Strip](https://www.acmicpc.net/problem/9010)<br>
