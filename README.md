@@ -120,6 +120,7 @@ Curation of BOJ submissions
 [#4571 Grade School Multiplication](https://www.acmicpc.net/problem/4571)<br>
 [#4655 Hangover](https://www.acmicpc.net/problem/4655)<br>
 [#4673 Self Numbers](https://www.acmicpc.net/problem/4673)<br>
+[#4732 First Composed, Then Transposed](https://www.acmicpc.net/problem/4732)<br>
 [#4801 Nine](https://www.acmicpc.net/problem/4801)<br>
 [#4804 Catching Shade in Flatland](https://www.acmicpc.net/problem/4804)<br>
 [#4861 Faulty Odometer](https://www.acmicpc.net/problem/4861)<br>
