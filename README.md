@@ -207,6 +207,7 @@ Curation of BOJ submissions
 [#11203 Numbers On a Tree](https://www.acmicpc.net/problem/11203)<br>
 [#11390 맛있는 과자](https://www.acmicpc.net/problem/11390)<br>
 [#11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)<br>
+[#11504 Wheel of Numbers](https://www.acmicpc.net/problem/11504)<br>
 [#11514 Refract Facts](https://www.acmicpc.net/problem/11514)<br>
 [#11572 확률 실험](https://www.acmicpc.net/problem/11572)<br>
 [#11620 Hovering Hornet](https://www.acmicpc.net/problem/11620)<br>
