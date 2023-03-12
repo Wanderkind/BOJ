@@ -256,6 +256,7 @@ Curation of BOJ submissions
 [#15059 Hard choice](https://www.acmicpc.net/problem/15059)<br>
 [#15120 Unloaded Die](https://www.acmicpc.net/problem/15120)<br>
 [#15122 Forbidden Zero](https://www.acmicpc.net/problem/15122)<br>
+[#15721 번데기](https://www.acmicpc.net/problem/15721)<br>
 [#15726 이칙연산](https://www.acmicpc.net/problem/15726)<br>
 [#15727 조별과제를 하려는데 조장이 사라졌다](https://www.acmicpc.net/problem/15727)<br>
 [#15735 삼각](https://www.acmicpc.net/problem/15735)<br>
