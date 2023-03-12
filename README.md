@@ -223,6 +223,7 @@ Curation of BOJ submissions
 [#11778 피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778)<br>
 [#11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br>
 [#11943 과일 옮기기](https://www.acmicpc.net/problem/11943)<br>
+[#11947 이런 반전이](https://www.acmicpc.net/problem/11947)<br>
 [#11966 2의 제곱인가?](https://www.acmicpc.net/problem/11966)<br>
 [#12438 새로운 달력(Large)](https://www.acmicpc.net/problem/12438)<br>
 [#12727 Numbers (Small)](https://www.acmicpc.net/problem/12727)<br>
