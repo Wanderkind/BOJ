@@ -158,6 +158,7 @@ Curation of BOJ submissions
 [#7786 Find the Sum](https://www.acmicpc.net/problem/7786)<br>
 [#7869 Circular Area](https://www.acmicpc.net/problem/7869)<br>
 [#8336 Chess](https://www.acmicpc.net/problem/8336)<br>
+[#8346 Logarithmic Paprika](https://www.acmicpc.net/problem/8346)<br>
 [#8370 Plane](https://www.acmicpc.net/problem/8370)<br>
 [#8575 Śpiew](https://www.acmicpc.net/problem/8575)<br>
 [#8723 Patyki](https://www.acmicpc.net/problem/8723)<br>
