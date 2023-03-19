@@ -327,6 +327,7 @@ Curation of BOJ submissions
 [#23235 The Fastest Sorting Algorithm In The World](https://www.acmicpc.net/problem/23235)<br>
 [#23317 구슬 굴리기](https://www.acmicpc.net/problem/23317)<br>
 [#23555 Gaokao](https://www.acmicpc.net/problem/23555)<br>
+[#23602 Drone With a Camera](https://www.acmicpc.net/problem/23602)<br>
 [#23804 골뱅이 찍기 - ㄷ](https://www.acmicpc.net/problem/23804)<br>
 [#23805 골뱅이 찍기 - 돌아간 ㄹ](https://www.acmicpc.net/problem/23805)<br>
 [#23809 골뱅이 찍기 - 돌아간 ㅈ](https://www.acmicpc.net/problem/23809)<br>
