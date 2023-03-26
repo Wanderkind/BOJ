@@ -376,3 +376,4 @@ Curation of BOJ submissions
 [#27452 (재밌고 웃기고 센스있고 깔끔한 제목)](https://www.acmicpc.net/problem/27452)<br>
 [#27513 스네이크 그리기](https://www.acmicpc.net/problem/27513)<br>
 [#27861 Linked Triangles](https://www.acmicpc.net/problem/27861)<br>
+[#27892 특별한 큰 분수](https://www.acmicpc.net/problem/27892)<br>
