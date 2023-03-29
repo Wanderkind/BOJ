@@ -103,6 +103,7 @@ Curation of BOJ submissions
 [#2987 JABUKE](https://www.acmicpc.net/problem/2987)<br>
 [#3000 DEJAVU](https://www.acmicpc.net/problem/3000)<br>
 [#3003 BIJELE](https://www.acmicpc.net/problem/3003)<br>
+[#3189 tomo](https://www.acmicpc.net/problem/3189)<br>
 [#3254 IT](https://www.acmicpc.net/problem/3254)<br>
 [#3460 Binary numbers](https://www.acmicpc.net/problem/3460)<br>
 [#3674 Fractal](https://www.acmicpc.net/problem/3674)<br>
