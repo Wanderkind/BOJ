@@ -241,6 +241,7 @@ Curation of BOJ submissions
 [#13752 Histogram](https://www.acmicpc.net/problem/13752)<br>
 [#13869 Dating On-Line](https://www.acmicpc.net/problem/13869)<br>
 [#13986 Gravity](https://www.acmicpc.net/problem/13986)<br>
+[#14156 Binarni](https://www.acmicpc.net/problem/14156)<br>
 [#14194 Grades](https://www.acmicpc.net/problem/14194)<br>
 [#14454 Secret Cow Code](https://www.acmicpc.net/problem/14454)<br>
 [#14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>
