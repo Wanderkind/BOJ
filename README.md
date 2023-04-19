@@ -385,3 +385,4 @@ Curation of BOJ submissions
 [#27513 스네이크 그리기](https://www.acmicpc.net/problem/27513)<br>
 [#27861 Linked Triangles](https://www.acmicpc.net/problem/27861)<br>
 [#27892 특별한 큰 분수](https://www.acmicpc.net/problem/27892)<br>
+[#27962 오렌지먹은지오랜지](https://www.acmicpc.net/problem/27962)<br>
