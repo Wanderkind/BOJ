@@ -368,6 +368,7 @@ Curation of BOJ submissions
 [#25841 Digit Count](https://www.acmicpc.net/problem/25841)<br>
 [#25968 구분구적법](https://www.acmicpc.net/problem/25968)<br>
 [#26006 K-Queen](https://www.acmicpc.net/problem/26006)<br>
+[#26048 Mower](https://www.acmicpc.net/problem/26048)<br>
 [#26068 치킨댄스를 추는 곰곰이를 본 임스 2](https://www.acmicpc.net/problem/26068)<br>
 [#26069 붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069)<br>
 [#26070 곰곰이와 학식](https://www.acmicpc.net/problem/26070)<br>
