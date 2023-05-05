@@ -284,6 +284,7 @@ Curation of BOJ submissions
 [#16395 파스칼의 삼각형](https://www.acmicpc.net/problem/16395)<br>
 [#16571 알파 틱택토](https://www.acmicpc.net/problem/16571)<br>
 [#16860 Are You Listening?](https://www.acmicpc.net/problem/16860)<br>
+[#16896 더일곱이 게임](https://www.acmicpc.net/problem/16896)<br>
 [#16931 겉넓이 구하기](https://www.acmicpc.net/problem/16931)<br>
 [#16953 A → B](https://www.acmicpc.net/problem/16953)<br>
 [#16955 오목, 이길 수 있을까?](https://www.acmicpc.net/problem/16955)<br>
