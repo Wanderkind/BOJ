@@ -69,6 +69,7 @@ Curation of BOJ submissions
 [#2023 신기한 소수](https://www.acmicpc.net/problem/2023)<br>
 [#2033 반올림](https://www.acmicpc.net/problem/2033)<br>
 [#2049 가장 먼 두 점](https://www.acmicpc.net/problem/2049)<br>
+[#2096 내려가기](https://www.acmicpc.net/problem/2096)<br>
 [#2155 삼각형의 최단 경로](https://www.acmicpc.net/problem/2155)<br>
 [#2166 다각형의 면적](https://www.acmicpc.net/problem/2166)<br>
 [#2373 Fibonacci Game](https://www.acmicpc.net/problem/2373)<br>
