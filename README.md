@@ -383,6 +383,7 @@ Curation of BOJ submissions
 [#26215 눈 치우기](https://www.acmicpc.net/problem/26215)<br>
 [#26314 Vowel Count](https://www.acmicpc.net/problem/26314)<br>
 [#26654 원점](https://www.acmicpc.net/problem/26654)<br>
+[#26711 A+B](https://www.acmicpc.net/problem/26711)<br>
 [#26868 Focusing on Costs](https://www.acmicpc.net/problem/26868)<br>
 [#27066 나무 블럭 게임](https://www.acmicpc.net/problem/27066)<br>
 [#27160 할리갈리](https://www.acmicpc.net/problem/27160)<br>
