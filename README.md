@@ -235,6 +235,7 @@ Curation of BOJ submissions
 [#11943 과일 옮기기](https://www.acmicpc.net/problem/11943)<br>
 [#11947 이런 반전이](https://www.acmicpc.net/problem/11947)<br>
 [#11966 2의 제곱인가?](https://www.acmicpc.net/problem/11966)<br>
+[#12100 2048 (Easy)](https://www.acmicpc.net/problem/12100)<br>
 [#12438 새로운 달력(Large)](https://www.acmicpc.net/problem/12438)<br>
 [#12727 Numbers (Small)](https://www.acmicpc.net/problem/12727)<br>
 [#12755 수면 장애](https://www.acmicpc.net/problem/12755)<br>
