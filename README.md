@@ -99,6 +99,7 @@ Curation of BOJ submissions
 [#2750 수 정렬하기](https://www.acmicpc.net/problem/2750)<br>
 [#2752 세수정렬](https://www.acmicpc.net/problem/2752)<br>
 [#2753 윤년](https://www.acmicpc.net/problem/2753)<br>
+[#2769 It’s Logical](https://www.acmicpc.net/problem/2769)<br>
 [#2773 EXOCENTER OF A TRIANGLE](https://www.acmicpc.net/problem/2773)<br>
 [#2805 EKO](https://www.acmicpc.net/problem/2805)<br>
 [#2839 ŠEĆER](https://www.acmicpc.net/problem/2839)<br>
@@ -180,6 +181,7 @@ Curation of BOJ submissions
 [#9399 Best Friends](https://www.acmicpc.net/problem/9399)<br>
 [#9527 Counting ones](https://www.acmicpc.net/problem/9527)<br>
 [#9553 Archery](https://www.acmicpc.net/problem/9553)<br>
+[#9663 N-Queen](https://www.acmicpc.net/problem/9663)<br>
 [#9693 Sifar](https://www.acmicpc.net/problem/9693)<br>
 [#9723 Right Triangle](https://www.acmicpc.net/problem/9723)<br>
 [#9726 Negative Binary](https://www.acmicpc.net/problem/9726)<br>
