@@ -51,9 +51,8 @@ for h in range(int(input())):
                 if ns == prc:
                     while target[2] <= ns - 4:
                         target = target[4]
-                    target[1] = True
-                    if negstack[-1] == prc:
-                        del negstack[-1]
+                    target[1] = not target[1]
+                    del negstack[-1]
             prc -= 4
         
         elif c == '~':
