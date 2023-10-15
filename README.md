@@ -161,6 +161,7 @@ Curation of BOJ submissions
 [#6845 Federal Voting Age](https://www.acmicpc.net/problem/6845)<br>
 [#6994 Hobbiton Farms](https://www.acmicpc.net/problem/6994)<br>
 [#7113 Rectangle](https://www.acmicpc.net/problem/7113)<br>
+[#7335 (Your)((Term)((Project)))](https://www.acmicpc.net/problem/7335)<br>
 [#7489 Factorials](https://www.acmicpc.net/problem/7489)<br>
 [#7562 Knight Moves](https://www.acmicpc.net/problem/7562)<br>
 [#7595 Triangles](https://www.acmicpc.net/problem/7595)<br>
