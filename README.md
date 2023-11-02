@@ -136,6 +136,7 @@ Curation of BOJ submissions
 [#4804 Catching Shade in Flatland](https://www.acmicpc.net/problem/4804)<br>
 [#4861 Faulty Odometer](https://www.acmicpc.net/problem/4861)<br>
 [#4949 The Balance of the World](https://www.acmicpc.net/problem/4949)<br>
+[#5373 Cubing](https://www.acmicpc.net/problem/5373)<br>
 [#5405 Fractal Streets](https://www.acmicpc.net/problem/5405)<br>
 [#5430 Integer Lists](https://www.acmicpc.net/problem/5430)<br>
 [#5525 IOIOI](https://www.acmicpc.net/problem/5525)<br>
