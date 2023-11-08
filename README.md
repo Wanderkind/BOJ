@@ -60,6 +60,7 @@ Curation of BOJ submissions
 [#1850 최대공약수](https://www.acmicpc.net/problem/1850)<br>
 [#1891 사분면](https://www.acmicpc.net/problem/1891)<br>
 [#1892 가위바위보](https://www.acmicpc.net/problem/1892)<br>
+[#1908 곱셈 전개식](https://www.acmicpc.net/problem/1908)<br>
 [#1917 정육면체 전개도](https://www.acmicpc.net/problem/1917)<br>
 [#1930 정사면체](https://www.acmicpc.net/problem/1930)<br>
 [#1932 The Triangle](https://www.acmicpc.net/problem/1932)<br>
