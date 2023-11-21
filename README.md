@@ -409,5 +409,6 @@ Curation of BOJ submissions
 [#27964 콰트로치즈피자](https://www.acmicpc.net/problem/27964)<br>
 [#28207 Classical Geometry Problem](https://www.acmicpc.net/problem/28207)<br>
 [#28294 프랙탈](https://www.acmicpc.net/problem/28294)<br>
+[#30229 Land Division](https://www.acmicpc.net/problem/30229)<br>
 [#30676 이 별은 무슨 색일까](https://www.acmicpc.net/problem/30676)<br>
 [#30688 카르텔 님 게임](https://www.acmicpc.net/problem/30688)<br>
