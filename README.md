@@ -344,6 +344,7 @@ Curation of BOJ submissions
 [#22007 Zeros](https://www.acmicpc.net/problem/22007)<br>
 [#22034 Alto Singing](https://www.acmicpc.net/problem/22034)<br>
 [#22353 헤이카카오](https://www.acmicpc.net/problem/22353)<br>
+[#22359 흔한 타일 색칠 문제](https://www.acmicpc.net/problem/22359)<br>
 [#22444 Wave Attack](https://www.acmicpc.net/problem/22444)<br>
 [#22628 Colored Octahedra](https://www.acmicpc.net/problem/22628)<br>
 [#22704 Triangles](https://www.acmicpc.net/problem/22704)<br>
