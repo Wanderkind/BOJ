@@ -304,6 +304,7 @@ Curation of BOJ submissions
 [#16953 A → B](https://www.acmicpc.net/problem/16953)<br>
 [#16955 오목, 이길 수 있을까?](https://www.acmicpc.net/problem/16955)<br>
 [#16974 레벨 햄버거](https://www.acmicpc.net/problem/16974)<br>
+[#17081 RPG Extreme](https://www.acmicpc.net/problem/17081)<br>
 [#17236 Heights](https://www.acmicpc.net/problem/17236)<br>
 [#17286 유미](https://www.acmicpc.net/problem/17286)<br>
 [#17386 선분 교차 1](https://www.acmicpc.net/problem/17386)<br>
