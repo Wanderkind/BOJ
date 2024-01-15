@@ -262,6 +262,7 @@ Curation of BOJ submissions
 [#13986 Gravity](https://www.acmicpc.net/problem/13986)<br>
 [#14156 Binarni](https://www.acmicpc.net/problem/14156)<br>
 [#14194 Grades](https://www.acmicpc.net/problem/14194)<br>
+[#14346 Radioactive Islands (Small)](https://www.acmicpc.net/problem/14346)<br>
 [#14454 Secret Cow Code](https://www.acmicpc.net/problem/14454)<br>
 [#14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>
 [#14500 테트로미노](https://www.acmicpc.net/problem/14500)<br>
