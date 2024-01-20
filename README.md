@@ -45,6 +45,7 @@ Curation of BOJ submissions
 [#1500 최대 곱](https://www.acmicpc.net/problem/1500)<br>
 [#1629 곱셈](https://www.acmicpc.net/problem/1629)<br>
 [#1630 오민식](https://www.acmicpc.net/problem/1630)<br>
+[#1646 피이보나치 트리](https://www.acmicpc.net/problem/1646)<br>
 [#1654 랜선 자르기](https://www.acmicpc.net/problem/1654)<br>
 [#1694 Chessboard in FEN](https://www.acmicpc.net/problem/1694)<br>
 [#1697 Catch That Cow](https://www.acmicpc.net/problem/1697)<br>
