@@ -275,6 +275,7 @@ Curation of BOJ submissions
 [#14681 Quadrant Selection](https://www.acmicpc.net/problem/14681)<br>
 [#14723 이산수학 과제](https://www.acmicpc.net/problem/14723)<br>
 [#14786 Ax+Bsin(x)=C ②](https://www.acmicpc.net/problem/14786)<br>
+[#14853 동전 던지기](https://www.acmicpc.net/problem/14853)<br>
 [#14915 진수 변환기](https://www.acmicpc.net/problem/14915)<br>
 [#14916 거스름돈](https://www.acmicpc.net/problem/14916)<br>
 [#14956 Philosoper's Walk](https://www.acmicpc.net/problem/14956)<br>
