@@ -417,6 +417,7 @@ Curation of BOJ submissions
 [#28207 Classical Geometry Problem](https://www.acmicpc.net/problem/28207)<br>
 [#28294 프랙탈](https://www.acmicpc.net/problem/28294)<br>
 [#30229 Land Division](https://www.acmicpc.net/problem/30229)<br>
+[#30583 Wall](https://www.acmicpc.net/problem/30583)<br>
 [#30676 이 별은 무슨 색일까](https://www.acmicpc.net/problem/30676)<br>
 [#30688 카르텔 님 게임](https://www.acmicpc.net/problem/30688)<br>
 [#30988 $\sqrt{f}(x)$](https://www.acmicpc.net/problem/30988)<br>
