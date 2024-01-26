@@ -156,6 +156,7 @@ Curation of BOJ submissions
 [#6194 Building the Moat](https://www.acmicpc.net/problem/6194)<br>
 [#6274 Chessboard Dance](https://www.acmicpc.net/problem/6274)<br>
 [#6377 Problem Bee](https://www.acmicpc.net/problem/6377)<br>
+[#6402 Strategy](https://www.acmicpc.net/problem/6402)<br>
 [#6439 Intersection](https://www.acmicpc.net/problem/6439)<br>
 [#6458 Circle Through Three Points](https://www.acmicpc.net/problem/6458)<br>
 [#6512 Cylinder](https://www.acmicpc.net/problem/6512)<br>
