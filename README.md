@@ -374,6 +374,7 @@ Curation of BOJ submissions
 [#24684 평면을 채우는 오각형](https://www.acmicpc.net/problem/24684)<br>
 [#24724 현대모비스와 함께하는 부품 관리](https://www.acmicpc.net/problem/24724)<br>
 [#24726 미적분학 입문하기](https://www.acmicpc.net/problem/24726)<br>
+[#24744 Three Spheres and a Tetrahedron](https://www.acmicpc.net/problem/24744)<br>
 [#24794 StopCard](https://www.acmicpc.net/problem/24794)<br>
 [#25044 에어컨](https://www.acmicpc.net/problem/25044)<br>
 [#25060 Pandemic Restrictions](https://www.acmicpc.net/problem/25060)<br>
