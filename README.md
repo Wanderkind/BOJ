@@ -368,6 +368,7 @@ Curation of BOJ submissions
 [#23926 Boring Numbers](https://www.acmicpc.net/problem/23926)<br>
 [#24389 2의 보수](https://www.acmicpc.net/problem/24389)<br>
 [#24552 올바른 괄호](https://www.acmicpc.net/problem/24552)<br>
+[#24558 Downsizing](https://www.acmicpc.net/problem/24558)<br>
 [#24607 Square Bounce](https://www.acmicpc.net/problem/24607)<br>
 [#24678 돌무더기 게임 1](https://www.acmicpc.net/problem/24678)<br>
 [#24679 돌무더기 게임 2](https://www.acmicpc.net/problem/24679)<br>
