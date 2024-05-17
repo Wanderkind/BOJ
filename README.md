@@ -418,6 +418,7 @@ Curation of BOJ submissions
 [#27962 오렌지먹은지오랜지](https://www.acmicpc.net/problem/27962)<br>
 [#27964 콰트로치즈피자](https://www.acmicpc.net/problem/27964)<br>
 [#28207 Classical Geometry Problem](https://www.acmicpc.net/problem/28207)<br>
+[#28230 Laboratory Report](https://www.acmicpc.net/problem/28230)<br>
 [#28294 프랙탈](https://www.acmicpc.net/problem/28294)<br>
 [#30229 Land Division](https://www.acmicpc.net/problem/30229)<br>
 [#30583 Wall](https://www.acmicpc.net/problem/30583)<br>
