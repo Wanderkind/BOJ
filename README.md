@@ -425,4 +425,5 @@ Curation of BOJ submissions
 [#30676 이 별은 무슨 색일까](https://www.acmicpc.net/problem/30676)<br>
 [#30688 카르텔 님 게임](https://www.acmicpc.net/problem/30688)<br>
 [#30988 $\sqrt{f}(x)$](https://www.acmicpc.net/problem/30988)<br>
+[#32015 Haiku Formatting](https://www.acmicpc.net/problem/32015)<br>
 
