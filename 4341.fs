@@ -106,46 +106,6 @@ and mul (x: num) (y: num) : num =
     | (Add (a, b), _) -> Add (mul a y, mul b y) |> addSanitize
     | (_, Add (a, b)) -> Add (mul a x, mul b x) |> addSanitize
 
-and isZero (x: num) : bool =
-    match x with
-    | Zero -> true
-    | Int a -> a = 0L
-    | Frc (a, _) -> isZero a
-    | Add (a, b) -> negate a |> ( *= ) b
-
-and ( *= ) (x: num) (y: num) : bool =
-    match (x, y) with
-    | (Zero, _) -> isZero y
-    | (Int u, Int v) -> u = v
-    | (Int _, Frc (_, _)) ->
-        let v = fracSanitize y
-        match v with
-        | Frc (_, _) -> false
-        | _ -> x *= v
-    | (Int _, Add (_, _)) ->
-        let v = addSanitize y
-        match v with
-        | Frc (_, _) -> false
-        | _ -> x *= v
-    | (Frc (_, _), Frc (_, _)) ->
-        let u, v = fracSanitize x, fracSanitize y
-        match (u, v) with
-        | (Frc (a, b), Frc (c, d)) -> a = c && b = d
-        | (_, Frc (_, _)) | (Frc (_, _), _) -> false
-        | (_, _) -> u *= v
-    | (Frc (_, _), Add (_, _)) ->
-        let u, v = fracSanitize x, addSanitize y
-        match (u, v) with
-        | (Frc (_, _), Add (_, _)) -> false
-        | (_, _) -> u *= v
-    | (Add (_, _), Add (_, _)) ->
-        let u, v = addSanitize x, addSanitize y
-        match (u, v) with
-        | (Add (a, b), Add (c, d)) -> (a = c && b = d) || (a = d && b = c)
-        | (_, Add (_, _)) | (Add (_, _), _) -> false
-        | (_, _) -> u *= v
-    | _ -> y *= x // reduced for the sake of size, costs maybe an extra stack?
-
 let rec div (x: num) (y: num) : num =
     match y with
     | Zero -> failwith "#### module Num: Division by Zero attempted. ####"
