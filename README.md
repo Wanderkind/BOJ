@@ -303,6 +303,7 @@ Curation of BOJ submissions
 [#16313 Janitor Troubles](https://www.acmicpc.net/problem/16313)<br>
 [#16360 Go Latin](https://www.acmicpc.net/problem/16360)<br>
 [#16395 파스칼의 삼각형](https://www.acmicpc.net/problem/16395)<br>
+[#16437 양 구출 작전](https://www.acmicpc.net/problem/16437)<br>
 [#16571 알파 틱택토](https://www.acmicpc.net/problem/16571)<br>
 [#16860 Are You Listening?](https://www.acmicpc.net/problem/16860)<br>
 [#16896 더일곱이 게임](https://www.acmicpc.net/problem/16896)<br>
@@ -346,6 +347,7 @@ Curation of BOJ submissions
 [#21257 Fireworks](https://www.acmicpc.net/problem/21257)<br>
 [#21300 Bottle Return](https://www.acmicpc.net/problem/21300)<br>
 [#21324 Mars Message](https://www.acmicpc.net/problem/21324)<br>
+[#21379 3-i-rad](https://www.acmicpc.net/problem/21379)<br>
 [#21598 SciComLove](https://www.acmicpc.net/problem/21598)<br>
 [#21631 Checkers](https://www.acmicpc.net/problem/21631)<br>
 [#22007 Zeros](https://www.acmicpc.net/problem/22007)<br>
